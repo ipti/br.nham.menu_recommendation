@@ -1,0 +1,95 @@
+<mat-card class="card-search mat-elevation-z3">
+    <mat-card-title class="card-title">Consultar Recomendações</mat-card-title>
+
+    <form class="example-container" [formGroup]="options" [style.fontSize.px]="getFontSize()">
+        <mat-button-toggle-group [formControl]="fontStyleControl" aria-label="Font Style" id="firstBt">
+            <mat-button-toggle (click)="getGroupingList()" value="food">Consultar para alimento específico
+            </mat-button-toggle>
+            <mat-button-toggle (click)="getMenuList()" value="menu">Consultar para cardápio completo</mat-button-toggle>
+        </mat-button-toggle-group>
+        <!-- <p>Chosen value is {{fontStyleControl.value}}</p> -->
+        
+        <mat-form-field *ngIf="fontStyleControl.value === 'food' && groupingList" appearance="fill"
+            [color]="colorControl.value">
+            <mat-label>Agrupamento</mat-label>
+            <mat-select required (selectionChange)="changeMatOption($event.value)">
+                <mat-option *ngFor="let group of groupingList" value="{{group.id}}">ID: {{ group.id }} | {{ group.name}} </mat-option>
+            </mat-select>
+        </mat-form-field>
+
+        <mat-form-field *ngIf="fontStyleControl.value === 'food' && foodList" appearance="fill"
+            [color]="colorControl.value">
+            <mat-label>Alimento</mat-label>
+            <mat-select required (selectionChange)="changeFoodOption($event.value)">
+                <ngx-mat-select-search [placeholderLabel]="'Pesquisar'" [noEntriesFoundLabel]="'Nenhum item encontrado'"
+                    [formControl]="control" ngDefaultControl>
+                </ngx-mat-select-search>
+                <mat-option *ngFor="let food of filteredRecords | async" value="{{food}}">{{ food }}</mat-option>
+            </mat-select>
+        </mat-form-field>
+
+        <mat-form-field *ngIf="fontStyleControl.value === 'food' && foodList" appearance="fill" [color]="colorControl.value">
+            <mat-label>Porção (g)</mat-label>
+            <input type="number" matInput placeholder="Porção (g)" (change)="changePortionValue($event)" name="portionSelected" required>
+        </mat-form-field>
+
+        <mat-button-toggle-group *ngIf="fontStyleControl.value === 'menu'" [formControl]="fontStyleControl2" aria-label="Font Style" id="firstBt">
+            <mat-button-toggle class="bt1" value="predefinedMenus">Cardápios pré-definidos</mat-button-toggle>
+            <mat-button-toggle class="bt2" value="combinationsMenu">Combinação de itens</mat-button-toggle>
+        </mat-button-toggle-group>
+
+        <mat-form-field *ngIf="fontStyleControl.value === 'menu' && menuList" appearance="fill"
+            [color]="colorControl.value">
+            <mat-label>Cardápio</mat-label>
+            <mat-select required (selectionChange)="changeMatOption($event.value)">
+                <ngx-mat-select-search [placeholderLabel]="'Pesquisar'" [noEntriesFoundLabel]="'Nenhum item encontrado'"
+                    [formControl]="control" ngDefaultControl>
+                </ngx-mat-select-search>
+                <mat-option *ngFor="let menu of filteredRecords | async" value="{{menu}}">{{ menu }}</mat-option>
+            </mat-select>
+        </mat-form-field>
+    </form>
+
+    <button mat-raised-button color="primary" (click)="search()">
+        Consultar
+    </button>
+
+    <button mat-raised-button (click)="cancel()">
+        Cancelar
+    </button>
+</mat-card>
+
+<mat-card *ngIf="searchResult.hasOwnProperty('menuReplacements') && fontStyleControl2.value === 'combinationsMenu'" class="card-search-result mat-elevation-z4">
+    <div class="menu" *ngFor="let menu of searchResult.menuReplacements; let im = index;"
+        [attr.data-index]="im">
+        <div class="{{ menu.semaphore + '-semaphore' }}">
+            <h2 id="alternative"># Alternativa {{im + 1}}</h2>
+            <div class="foods">
+                <div *ngFor="let item of menu['menu'] ; let i = index; let l = count" [attr.data-index]="i">
+                    <span>{{item.name}} ({{item.suggestedPortion.toFixed(0)}}g)</span>
+                    <span *ngIf="i<(l-1)">,&nbsp;</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</mat-card>
+
+<mat-card *ngIf="searchResult.hasOwnProperty('predefinedMenuReplacements') && fontStyleControl2.value === 'predefinedMenus'" class="card-search-result mat-elevation-z4">
+    <div class="menu" *ngFor="let menu of searchResult.predefinedMenuReplacements; let im = index;"
+        [attr.data-index]="im">
+        <div class="{{ menu.semaphore + '-semaphore' }}">
+            <h2 id="alternative"># Alternativa {{im + 1}}</h2>
+            <div> {{ menu.description }} </div>
+        </div>
+    </div>
+</mat-card>
+
+<mat-card *ngIf="searchResult.hasOwnProperty('referenceFood')" class="card-search-result mat-elevation-z4">
+    <div class="menu" *ngFor="let food of searchResult.replacements; let im = index;"
+        [attr.data-index]="im">
+        <div class="{{ food.semaphore + '-semaphore' }}">
+            <h2 id="alternative"># Alternativa {{im + 1}}</h2>
+            <div>{{food.food.name}} ({{food.food.suggestedPortion.toFixed(0)}}g)</div>
+        </div>
+    </div>
+</mat-card>

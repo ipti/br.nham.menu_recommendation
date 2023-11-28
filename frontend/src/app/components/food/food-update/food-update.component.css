@@ -1,0 +1,25 @@
+.nav-title {
+    font-weight: 500;
+    margin-bottom: 2rem;
+    margin-top: 5rem;
+    font-size: 1.5rem;
+}
+
+form {
+    display: table-row;
+    /* flex-direction: column; */
+}
+
+button {
+    /* margin-right: 15px;
+    margin-top: 20px; */
+    margin: 20px 15px 0px 0px;
+}
+
+.card-title {
+    margin-bottom: 20px;
+}
+
+.card-new-food {
+    margin-top: 160px;
+}

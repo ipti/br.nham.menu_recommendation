@@ -1,0 +1,15 @@
+<div class="container-btt">
+    <button mat-raised-button (click)="runRecommendationSystem()" color="primary" [class.spinner]="loadingBt1" [disabled]="loadingBt1">
+        <i class="material-icons">
+            play_circle_outline
+        </i>
+        Executar Carga Completa
+    </button>
+
+    <button mat-raised-button (click)="navigateToSearch()" color="primary">
+        <i class="material-icons">
+            find_replace
+        </i>
+        Consultar Recomendações
+    </button>
+</div>

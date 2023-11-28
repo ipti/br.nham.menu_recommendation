@@ -1,0 +1,83 @@
+<mat-card class="card-edit-group mat-elevation-z3">
+    <mat-card-title class="card-title">Alterar Agrupamento</mat-card-title>
+
+    <button mat-raised-button color="primary" (click)="addFood(form.value)">
+        <i class="material-icons">
+            add_circle_outline
+        </i>
+        Incluir Alimento
+    </button>
+
+    <form *ngIf="groupingRequest">
+        <mat-form-field class="formname">
+            <input matInput placeholder="Nome" [(ngModel)]="groupingRequest.name" name="name" required>
+        </mat-form-field>
+    </form>
+
+    <form [formGroup]="form" autocomplete="off">
+
+        <ng-container formArrayName="groupItems">
+            <mat-table [dataSource]="groupItems.controls">
+
+                <ng-container matColumnDef="delete">
+                    <mat-header-cell *matHeaderCellDef> Ação </mat-header-cell>
+                    <mat-cell *matCellDef="let element;" [formGroup]="element">
+                        <a class="delete" (click)="deleteFood(element, form.value)">
+                            <i class="material-icons">delete</i>
+                        </a>
+                    </mat-cell>
+                </ng-container>
+
+                <ng-container matColumnDef="code">
+                    <mat-header-cell *matHeaderCellDef> Código </mat-header-cell>
+                    <mat-cell *matCellDef="let element;" [formGroup]="element">
+                        <mat-form-field floatLabel="never">
+                            <input matInput placeholder="Código" formControlName="code" required id="oioi">
+                        </mat-form-field>
+                    </mat-cell>
+                </ng-container>
+
+                <ng-container matColumnDef="gramsPortion">
+                    <mat-header-cell *matHeaderCellDef> Porção (g) </mat-header-cell>
+                    <mat-cell *matCellDef="let element;" [formGroup]="element">
+                        <mat-form-field floatLabel="never">
+                            <input matInput type="number" placeholder="Porção(g)" formControlName="gramsPortion" required>
+                        </mat-form-field>
+                    </mat-cell>
+                </ng-container>
+
+                <ng-container matColumnDef="homemadePortion">
+                    <mat-header-cell *matHeaderCellDef> Porção (caseira) </mat-header-cell>
+                    <mat-cell *matCellDef="let element;" [formGroup]="element">
+                        <mat-form-field floatLabel="never">
+                            <input matInput placeholder="Porção(caseira)" formControlName="homemadePortion" required>
+                        </mat-form-field>
+                    </mat-cell>
+                </ng-container>
+
+                <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+                <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+            </mat-table>
+        </ng-container>
+    </form>
+    <!-- <mat-accordion>
+        <mat-expansion-panel>
+            <mat-expansion-panel-header>
+                <mat-panel-title>
+                    Form value
+                </mat-panel-title>
+            </mat-expansion-panel-header>
+            <code>
+        {{form.value | json}}
+      </code>
+        </mat-expansion-panel>
+    </mat-accordion> -->
+
+    <button mat-raised-button (click)="updateGrouping()" color="primary">
+        Atualizar
+    </button>
+    
+    <button mat-raised-button (click)="cancel()">
+        Cancelar
+    </button>
+</mat-card>

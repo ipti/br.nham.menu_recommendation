@@ -1,0 +1,19 @@
+{
+    "config": {
+      "method": "similarityMatrix",
+      "kernel": "linear",
+      "executionMode": "exec-full-save-all",
+      "colors": [
+        "green",
+        "yellow",
+        "red"
+      ],
+      "limit": 5,
+      "weights": {
+        "protein": 1.5,
+        "lipid": 1,
+        "calorie": 3,
+        "carbo": 1
+      }
+    }
+}

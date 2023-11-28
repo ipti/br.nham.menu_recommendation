@@ -1,0 +1,49 @@
+.card-group {
+    width: 29%;
+    /* max-width: 600px; */
+    min-width: 350px;
+    margin: 0px 25px 25px 0px;
+    /* max-height: 200px; */
+}
+
+span {
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.span-tab {
+    width: 100%;
+    float:left;
+    overflow-y: auto;
+    height: 400px;
+}
+
+hr {
+    margin-top: 18px;
+    opacity: 0.3;
+    width: 100%;
+}
+
+table {
+    width: 100%;
+    /* margin-bottom: 30px; */
+    /* margin-top: 100px; */
+}
+
+.edit {
+    margin-right: 2px;
+}
+
+.delete {
+    margin-right: 12px;
+}
+
+.edit > i {
+    color: #d9cd26;
+}
+
+.delete > i {
+    color: #e35e6b;
+}

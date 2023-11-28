@@ -1,0 +1,20 @@
+<mat-card class="card-new-food mat-elevation-z3">
+    <mat-card-title class="card-title">Remover Alimento do Estoque</mat-card-title>
+    
+    <form>
+        <mat-form-field>
+            <input matInput placeholder="Código do Alimento" [value]="inventory.foodCode" name="foodCode" required disabled>
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput placeholder="Quantidade" [value]="inventory.amount" name="amount" required disabled>
+        </mat-form-field>
+    </form>
+
+    <button mat-raised-button (click)="deleteFoodInventory()" color="warn">
+        Remover
+    </button>
+    
+    <button mat-raised-button (click)="cancel()">
+        Cancelar
+    </button>
+</mat-card>

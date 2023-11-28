@@ -1,0 +1,5 @@
+node_modules
+__pycache__
+recommendation_sys/output/foods/**
+recommendation_sys/output/menus/**
+recommendation_sys/output/similarityMatrices/**

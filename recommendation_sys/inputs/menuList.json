@@ -1,0 +1,6097 @@
+{
+    "menuList": [
+        {
+          "id": 1,
+          "schooltype": "CRECHE",
+          "mealtype": "Almoco",
+          "code": "1",
+          "description": "Arroz com cenoura, feijão carioca, filé de frango ao molho, salada crua (alface com tomate e cebola picadinhos)",
+          "items": [
+            {
+              "code": "3",
+              "gramsPortion": 100,
+              "name": "Arroz branco",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "78",
+              "gramsPortion": 100,
+              "name": "Alface",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "409",
+              "gramsPortion": 100,
+              "name": "Filé de peito de frango",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "schooltype": "CRECHE",
+          "mealtype": "Almoco",
+          "code": "2",
+          "description": "Arroz, feijão com carne acebolada, salada crua (alface, tomate, cenoura e coentro)",
+          "items": [
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "3",
+              "gramsPortion": 100,
+              "name": "Arroz branco",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "78",
+              "gramsPortion": 100,
+              "name": "Alface",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "114",
+              "gramsPortion": 100,
+              "name": "Coentro",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "schooltype": "CRECHE",
+          "mealtype": "Almoco",
+          "code": "3",
+          "description": "Arroz, feijão com quiabada (Arroz, feijão, carne, quiabo e temperos)",
+          "items": [
+            {
+              "code": "3",
+              "gramsPortion": 100,
+              "name": "Arroz branco",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code":"370",
+              "gramsPortion": 100,
+              "name": "Carne bovina congelada",
+              "replaceable": true
+            },
+            {
+              "code": "147",
+              "gramsPortion": 100,
+              "name": "Quiabo",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "schooltype": "CRECHE",
+          "mealtype": "Almoco",
+          "code": "4",
+          "description": "Arroz, feijão purê de batata com carne desfiada",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "3",
+              "gramsPortion": 100,
+              "name": "Arroz branco",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "370",
+              "gramsPortion": 100,
+              "name": "Carne bovina congelada",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "schooltype": "CRECHE",
+          "mealtype": "Almoco",
+          "code": "5",
+          "description": "Arroz, feijão, frango cozido com batatinha e abóbora",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "3",
+              "gramsPortion": 100,
+              "name": "Arroz branco",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "69",
+              "gramsPortion": 100,
+              "name": "Abóbora",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "schooltype": "CRECHE",
+          "mealtype": "Almoco",
+          "code": "6",
+          "description": "Arroz, feijão, purê de batata com file de peixe",
+          "items": [
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "3",
+              "gramsPortion": 100,
+              "name": "Arroz branco",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "401",
+              "gramsPortion": 100,
+              "name": "Filé de peixe",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "schooltype": "CRECHE",
+          "mealtype": "Almoco",
+          "code": "7",
+          "description": "Baião de dois com carne desfiada Abóbora cozida no vapor",
+          "items": [
+            {
+              "code": "3",
+              "gramsPortion": 100,
+              "replaceable": true,
+              "name": "Arroz branco"
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "replaceable": true,
+              "name": "Feijão carioquinha"
+            },
+            {
+              "code": "69",
+              "gramsPortion": 100,
+              "replaceable": true,
+              "name": "Abóbora"
+            },
+            {
+              "code": "353",
+              "gramsPortion": 100,
+              "replaceable": true,
+              "name": "Carne bovina salgada"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "schooltype": "CRECHE",
+          "mealtype": "Almoco",
+          "code": "8",
+          "description": "Macarronada de frango verduras cozidas no vapor (batatinha e cenoura) ",
+          "items": [
+            {
+              "code": "40",
+              "gramsPortion": 100,
+              "name": "Massa de macarrão para sopa",
+              "replaceable": true
+            },
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "schooltype": "CRECHE",
+          "mealtype": "Almoco",
+          "code": "9",
+          "description": "Macarrão ao molho com carne moída, beterraba e cenoura.",
+          "items": [
+            {
+              "code": "40",
+              "gramsPortion": 100,
+              "name": "Massa de macarrão para sopa",
+              "replaceable": true
+            },
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "352",
+              "gramsPortion": 100,
+              "name": "Carne bovina moída",
+              "replaceable": true
+            },
+            {
+              "code": "98",
+              "gramsPortion": 100,
+              "name": "Beterraba",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "schooltype": "CRECHE",
+          "mealtype": "Almoco",
+          "code": "10",
+          "description": "Risoto de frango Salada crua (beterraba e cenoura ralada) Tangerina",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "3",
+              "gramsPortion": 100,
+              "name": "Arroz branco",
+              "replaceable": true
+            },
+            {
+              "code": "98",
+              "gramsPortion": 100,
+              "name": "Beterraba",
+              "replaceable": true
+            },
+            {
+              "code": "319",
+              "gramsPortion": 100,
+              "name": "Sardinha em conserva",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "schooltype": "CRECHE",
+          "mealtype": "Desjejum",
+          "code": "11",
+          "description": "Batata doce com frango desfiado",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "89",
+              "gramsPortion": 100,
+              "name": "Batata doce",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "schooltype": "CRECHE",
+          "mealtype": "Desjejum",
+          "code": "12",
+          "description": "Cuscuz com Leite",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "533",
+              "gramsPortion": 100,
+              "name": "Farinha de milho floco para cuscuz",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "schooltype": "CRECHE",
+          "mealtype": "Desjejum",
+          "code": "13",
+          "description": "Cuscuz com ovos",
+          "items": [
+            {
+              "code": "533",
+              "gramsPortion": 100,
+              "name": "Farinha de milho floco para cuscuz",
+              "replaceable": true
+            },
+            {
+              "code": "489",
+              "gramsPortion": 100,
+              "name": "Ovo",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "schooltype": "CRECHE",
+          "mealtype": "Desjejum",
+          "code": "14",
+          "description": "Macaxeira cozida com frango desfiado",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "130",
+              "gramsPortion": 100,
+              "name": "Macaxeira à vacuo",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "schooltype": "CRECHE",
+          "mealtype": "Desjejum",
+          "code": "15",
+          "description": "Mingau de Milho",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "43",
+              "gramsPortion": 100,
+              "name": "Fubá de milho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "schooltype": "CRECHE",
+          "mealtype": "Desjejum",
+          "code": "16",
+          "description": "Mingau de maizena (Leite, maizena)",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "42",
+              "gramsPortion": 100,
+              "name": "Maisena",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "schooltype": "CRECHE",
+          "mealtype": "Desjejum",
+          "code": "17",
+          "description": "Pão de macaxeira + com ovos mexidos Vitamina de banana (Leite, banana)",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "489",
+              "gramsPortion": 100,
+              "name": "Ovo",
+              "replaceable": true
+            },
+            {
+              "code": "182",
+              "gramsPortion": 100,
+              "name": "Banana prata",
+              "replaceable": true
+            },
+            {
+              "code": "49",
+              "gramsPortion": 100,
+              "name": "Pão de macaxeira",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "schooltype": "CRECHE",
+          "mealtype": "Desjejum",
+          "code": "18",
+          "description": "Sopa de legumes (macarrão, feijão, batatinha, chuchu, carne moída)",
+          "items": [
+            {
+              "code": "40",
+              "gramsPortion": 100,
+              "name": "Massa de macarrão para sopa",
+              "replaceable": true
+            },
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "113",
+              "gramsPortion": 100,
+              "name": "Chuchu",
+              "replaceable": true
+            },
+            {
+              "code": "352",
+              "gramsPortion": 100,
+              "name": "Carne bovina moída",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "schooltype": "CRECHE",
+          "mealtype": "Lanche_manha",
+          "code": "19",
+          "description": "Abacaxi em rodelas ",
+          "items": [
+            {
+              "code": "164",
+              "gramsPortion": 100,
+              "name": "Abacaxi",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "schooltype": "CRECHE",
+          "mealtype": "Lanche_manha",
+          "code": "20",
+          "description": "Banana amassada com aveia",
+          "items": [
+            {
+              "code": "7",
+              "gramsPortion": 100,
+              "name": "Aveia em flocos finos",
+              "replaceable": true
+            },
+            {
+              "code": "182",
+              "gramsPortion": 100,
+              "name": "Banana prata",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "schooltype": "CRECHE",
+          "mealtype": "Lanche_manha",
+          "code": "21",
+          "description": "Mamão em cubinhos",
+          "items": [
+            {
+              "code": "225",
+              "gramsPortion": 100,
+              "name": "Mamão",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "schooltype": "CRECHE",
+          "mealtype": "Lanche_manha",
+          "code": "22",
+          "description": "Mamão em cubos",
+          "items": [
+            {
+              "code": "225",
+              "gramsPortion": 100,
+              "name": "Mamão",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "schooltype": "CRECHE",
+          "mealtype": "Lanche_manha",
+          "code": "23",
+          "description": "Melancia",
+          "items": [
+            {
+              "code": "235",
+              "gramsPortion": 100,
+              "name": "Melancia",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "schooltype": "CRECHE",
+          "mealtype": "Lanche_manha",
+          "code": "24",
+          "description": "Pipoca + vitamina de mamão (leite/Mamão)",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "225",
+              "gramsPortion": 100,
+              "name": "Mamão",
+              "replaceable": true
+            },
+            {
+              "code": "61",
+              "gramsPortion": 100,
+              "name": "Milho de pipoca",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "schooltype": "CRECHE",
+          "mealtype": "Lanche_manha",
+          "code": "25",
+          "description": "Salada de fruta com aveia (abacaxi, mamão, banana)",
+          "items": [
+            {
+              "code": "225",
+              "gramsPortion": 100,
+              "name": "Mamão",
+              "replaceable": true
+            },
+            {
+              "code": "7",
+              "gramsPortion": 100,
+              "name": "Aveia em flocos finos",
+              "replaceable": true
+            },
+            {
+              "code": "182",
+              "gramsPortion": 100,
+              "name": "Banana prata",
+              "replaceable": true
+            },
+            {
+              "code": "164",
+              "gramsPortion": 100,
+              "name": "Abacaxi",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "schooltype": "CRECHE",
+          "mealtype": "Lanche_manha",
+          "code": "26",
+          "description": "Tangerina",
+          "items": [
+            {
+              "code": "319",
+              "gramsPortion": 100,
+              "name": "Sardinha em conserva",
+              "replaceable": true
+            },
+            {
+              "code": "251",
+              "gramsPortion": 100,
+              "name": "Tangerina",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "schooltype": "CRECHE",
+          "mealtype": "Lanche_tarde",
+          "code": "27",
+          "description": "Arroz doce (sem açúcar)",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "3",
+              "gramsPortion": 100,
+              "name": "Arroz branco",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "schooltype": "CRECHE",
+          "mealtype": "Lanche_tarde",
+          "code": "28",
+          "description": "Canja de galinha (arroz, frango, batata inglesa, cenoura e temperos)",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "3",
+              "gramsPortion": 100,
+              "name": "Arroz branco",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "schooltype": "CRECHE",
+          "mealtype": "Lanche_tarde",
+          "code": "29",
+          "description": "Cuscuz com charque desfiado acebolado",
+          "items": [
+            {
+              "code": "533",
+              "gramsPortion": 100,
+              "name": "Farinha de milho floco para cuscuz",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "353",
+              "gramsPortion": 100,
+              "name": "Carne bovina salgada",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "schooltype": "CRECHE",
+          "mealtype": "Lanche_tarde",
+          "code": "30",
+          "description": "Cuscuz com ovos mexidos (Cuscuz+Ovos)",
+          "items": [
+            {
+              "code": "533",
+              "gramsPortion": 100,
+              "name": "Farinha de milho floco para cuscuz",
+              "replaceable": true
+            },
+            {
+              "code": "489",
+              "gramsPortion": 100,
+              "name": "Ovo",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "schooltype": "CRECHE",
+          "mealtype": "Lanche_tarde",
+          "code": "31",
+          "description": "Mingau de aveia com canela (Aveia, leite, canela)",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "7",
+              "gramsPortion": 100,
+              "name": "Aveia em flocos finos",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "schooltype": "CRECHE",
+          "mealtype": "Lanche_tarde",
+          "code": "32",
+          "description": "Mingau de milho (Leite, fubá, canela) ",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "43",
+              "gramsPortion": 100,
+              "name": "Fubá de milho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "schooltype": "CRECHE",
+          "mealtype": "Lanche_tarde",
+          "code": "33",
+          "description": "Sopa de feijão (feijão, massa para sopa, cenoura e temperos)",
+          "items": [
+            {
+              "code": "40",
+              "gramsPortion": 100,
+              "name": "Massa de macarrão para sopa",
+              "replaceable": true
+            },
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "schooltype": "CRECHE",
+          "mealtype": "Lanche_tarde",
+          "code": "34",
+          "description": "Sopa de feijão com charque (feijão, batatinha, chuchu macarrão/sopa, charque)",
+          "items": [
+            {
+              "code": "40",
+              "gramsPortion": 100,
+              "name": "Massa de macarrão para sopa",
+              "replaceable": true
+            },
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "113",
+              "gramsPortion": 100,
+              "name": "Chuchu",
+              "replaceable": true
+            },
+            {
+              "code": "353",
+              "gramsPortion": 100,
+              "name": "Carne bovina salgada",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "schooltype": "CRECHE",
+          "mealtype": "Lanche_tarde",
+          "code": "35",
+          "description": "Vitamina de mamão Bolo de banana sem açúcar ",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "225",
+              "gramsPortion": 100,
+              "name": "Mamão",
+              "replaceable": true
+            },
+            {
+              "code": "18",
+              "gramsPortion": 100,
+              "name": "Bolo de banana",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "schooltype": "EJA",
+          "mealtype": "Jantar",
+          "code": "36",
+          "description": " Mungunzá, Biscoito cream cracker, Fruta: Melancia",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "235",
+              "gramsPortion": 100,
+              "name": "Melancia",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "523",
+              "gramsPortion": 100,
+              "name": "Leite de coco",
+              "replaceable": true
+            },
+            {
+              "code": "598",
+              "gramsPortion": 100,
+              "name": "Milho para mungunzá",
+              "replaceable": true
+            },
+            {
+              "code": "13",
+              "gramsPortion": 100,
+              "name": "Biscoito salgado",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "schooltype": "EJA",
+          "mealtype": "Jantar",
+          "code": "37",
+          "description": "Arroz doce, Biscoito Maria",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "523",
+              "gramsPortion": 100,
+              "name": "Leite de coco",
+              "replaceable": true
+            },
+            {
+              "code": "590",
+              "gramsPortion": 100,
+              "name": "Coco seco ralado",
+              "replaceable": true
+            },
+            {
+              "code": "8",
+              "gramsPortion": 100,
+              "name": "Biscoito doce",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "schooltype": "EJA",
+          "mealtype": "Jantar",
+          "code": "38",
+          "description": "Arroz, Feijão, Quiabada de carne,Farofa,Suco de jenipapo",
+          "items": [
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "370",
+              "gramsPortion": 100,
+              "name": "Carne bovina congelada",
+              "replaceable": true
+            },
+            {
+              "code": "147",
+              "gramsPortion": 100,
+              "name": "Quiabo",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            },
+            {
+              "code": "122",
+              "gramsPortion": 100,
+              "name": "Farinha de mandioca",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "schooltype": "EJA",
+          "mealtype": "Jantar",
+          "code": "39",
+          "description": "Batata Doce, Carne de panela cozida com verduras, Café com leite",
+          "items": [
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "370",
+              "gramsPortion": 100,
+              "name": "Carne bovina congelada",
+              "replaceable": true
+            },
+            {
+              "code": "147",
+              "gramsPortion": 100,
+              "name": "Quiabo",
+              "replaceable": true
+            },
+            {
+              "code": "69",
+              "gramsPortion": 100,
+              "name": "Abóbora",
+              "replaceable": true
+            },
+            {
+              "code": "89",
+              "gramsPortion": 100,
+              "name": "Batata doce",
+              "replaceable": true
+            },
+            {
+              "code": "511",
+              "gramsPortion": 100,
+              "name": "Café em pó",
+              "replaceable": true
+            },
+            {
+              "code": "459",
+              "gramsPortion": 100,
+              "name": "Leite em pó",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 40,
+          "schooltype": "EJA",
+          "mealtype": "Jantar",
+          "code": "40",
+          "description": "Batata doce, Ovos mexidos+ Pão de macaxeira, Café com leite, Fruta: Laranja",
+          "items": [
+            {
+              "code": "489",
+              "gramsPortion": 100,
+              "name": "Ovo",
+              "replaceable": true
+            },
+            {
+              "code": "49",
+              "gramsPortion": 100,
+              "name": "Pão de macaxeira",
+              "replaceable": true
+            },
+            {
+              "code": "89",
+              "gramsPortion": 100,
+              "name": "Batata doce",
+              "replaceable": true
+            },
+            {
+              "code": "511",
+              "gramsPortion": 100,
+              "name": "Café em pó",
+              "replaceable": true
+            },
+            {
+              "code": "459",
+              "gramsPortion": 100,
+              "name": "Leite em pó",
+              "replaceable": true
+            },
+            {
+              "code": "208",
+              "gramsPortion": 100,
+              "name": "Laranja",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "schooltype": "EJA",
+          "mealtype": "Jantar",
+          "code": "41",
+          "description": "Batata doce, frango cozido com quiabo e abóbora, Café com leite, Fruta: Tangerina",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "147",
+              "gramsPortion": 100,
+              "name": "Quiabo",
+              "replaceable": true
+            },
+            {
+              "code": "319",
+              "gramsPortion": 100,
+              "name": "Sardinha em conserva",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "69",
+              "gramsPortion": 100,
+              "name": "Abóbora",
+              "replaceable": true
+            },
+            {
+              "code": "89",
+              "gramsPortion": 100,
+              "name": "Batata doce",
+              "replaceable": true
+            },
+            {
+              "code": "511",
+              "gramsPortion": 100,
+              "name": "Café em pó",
+              "replaceable": true
+            },
+            {
+              "code": "459",
+              "gramsPortion": 100,
+              "name": "Leite em pó",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "schooltype": "EJA",
+          "mealtype": "Jantar",
+          "code": "42",
+          "description": "Cachorro quente de carne moída, Fruta: Melancia, Suco de Maracujá",
+          "items": [
+            {
+              "code": "352",
+              "gramsPortion": 100,
+              "name": "Carne bovina moída",
+              "replaceable": true
+            },
+            {
+              "code": "48",
+              "gramsPortion": 100,
+              "name": "Pão tipo hot dog",
+              "replaceable": true
+            },
+            {
+              "code": "15",
+              "gramsPortion": 100,
+              "name": "Bolo caseiro",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 43,
+          "schooltype": "EJA",
+          "mealtype": "Jantar",
+          "code": "43",
+          "description": "Cuscuz  com tirinhas de carne bovina acebolada, Vinagrete,  Fruta: Banana, Café com leite",
+          "items": [
+            {
+              "code": "533",
+              "gramsPortion": 100,
+              "name": "Farinha de milho floco para cuscuz",
+              "replaceable": true
+            },
+            {
+              "code": "370",
+              "gramsPortion": 100,
+              "name": "Carne bovina congelada",
+              "replaceable": true
+            },
+            {
+              "code": "182",
+              "gramsPortion": 100,
+              "name": "Banana prata",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "511",
+              "gramsPortion": 100,
+              "name": "Café em pó",
+              "replaceable": true
+            },
+            {
+              "code": "459",
+              "gramsPortion": 100,
+              "name": "Leite em pó",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 44,
+          "schooltype": "EJA",
+          "mealtype": "Jantar",
+          "code": "44",
+          "description": "Cuscuz Temperado com sardinha, Fruta: Laranja, Café com leite",
+          "items": [
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "533",
+              "gramsPortion": 100,
+              "name": "Farinha de milho floco para cuscuz",
+              "replaceable": true
+            },
+            {
+              "code": "319",
+              "gramsPortion": 100,
+              "name": "Sardinha em conserva",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "511",
+              "gramsPortion": 100,
+              "name": "Café em pó",
+              "replaceable": true
+            },
+            {
+              "code": "459",
+              "gramsPortion": 100,
+              "name": "Leite em pó",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "schooltype": "EJA",
+          "mealtype": "Jantar",
+          "code": "45",
+          "description": "Cuscuz com ovos, Café com leite, Fruta: Melancia",
+          "items": [
+            {
+              "code": "533",
+              "gramsPortion": 100,
+              "name": "Farinha de milho floco para cuscuz",
+              "replaceable": true
+            },
+            {
+              "code": "489",
+              "gramsPortion": 100,
+              "name": "Ovo",
+              "replaceable": true
+            },
+            {
+              "code": "235",
+              "gramsPortion": 100,
+              "name": "Melancia",
+              "replaceable": true
+            },
+            {
+              "code": "511",
+              "gramsPortion": 100,
+              "name": "Café em pó",
+              "replaceable": true
+            },
+            {
+              "code": "459",
+              "gramsPortion": 100,
+              "name": "Leite em pó",
+              "replaceable": true
+            },
+            {
+              "code": "15",
+              "gramsPortion": 100,
+              "name": "Bolo caseiro",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 46,
+          "schooltype": "EJA",
+          "mealtype": "Jantar",
+          "code": "46",
+          "description": "Cuscuz, Fígado acebolado, Salada: alface, tomate, cebola, Café com leite,Fruta: Laranja",
+          "items": [
+            {
+              "code": "533",
+              "gramsPortion": 100,
+              "name": "Farinha de milho floco para cuscuz",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "78",
+              "gramsPortion": 100,
+              "name": "Alface",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "511",
+              "gramsPortion": 100,
+              "name": "Café em pó",
+              "replaceable": true
+            },
+            {
+              "code": "459",
+              "gramsPortion": 100,
+              "name": "Leite em pó",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "208",
+              "gramsPortion": 100,
+              "name": "Laranja",
+              "replaceable": true
+            },
+            {
+              "code": "355",
+              "gramsPortion": 100,
+              "name": "Fígado ",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 47,
+          "schooltype": "EJA",
+          "mealtype": "Jantar",
+          "code": "47",
+          "description": "Inhame Ovos temperado (ovo, cebola, tomate, coentro), Café com leite",
+          "items": [
+            {
+              "code": "489",
+              "gramsPortion": 100,
+              "name": "Ovo",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "114",
+              "gramsPortion": 100,
+              "name": "Coentro",
+              "replaceable": true
+            },
+            {
+              "code": "511",
+              "gramsPortion": 100,
+              "name": "Café em pó",
+              "replaceable": true
+            },
+            {
+              "code": "459",
+              "gramsPortion": 100,
+              "name": "Leite em pó",
+              "replaceable": true
+            },
+            {
+              "code": "126",
+              "gramsPortion": 100,
+              "name": "Inhame",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 48,
+          "schooltype": "EJA",
+          "mealtype": "Jantar",
+          "code": "48",
+          "description": "Inhame com carne bovina ao molho, Salada:  Couve refogada, Café com leite, Fruta: Laranja\n",
+          "items": [
+            {
+              "code": "370",
+              "gramsPortion": 100,
+              "name": "Carne bovina congelada",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "511",
+              "gramsPortion": 100,
+              "name": "Café em pó",
+              "replaceable": true
+            },
+            {
+              "code": "459",
+              "gramsPortion": 100,
+              "name": "Leite em pó",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            },
+            {
+              "code": "208",
+              "gramsPortion": 100,
+              "name": "Laranja",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "126",
+              "gramsPortion": 100,
+              "name": "Inhame",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 49,
+          "schooltype": "EJA",
+          "mealtype": "Jantar",
+          "code": "49",
+          "description": "Macarrão ao molho com carne moída + Salada crua (couve, tomate e cebola), Fruta: Tangerina, Suco de abacaxi",
+          "items": [
+            {
+              "code": "40",
+              "gramsPortion": 100,
+              "name": "Massa de macarrão para sopa",
+              "replaceable": true
+            },
+            {
+              "code": "352",
+              "gramsPortion": 100,
+              "name": "Carne bovina moída",
+              "replaceable": true
+            },
+            {
+              "code": "319",
+              "gramsPortion": 100,
+              "name": "Sardinha em conserva",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "115",
+              "gramsPortion": 100,
+              "name": "Couve",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 50,
+          "schooltype": "EJA",
+          "mealtype": "Jantar",
+          "code": "50",
+          "description": "Macarrão ao molho com carne moída, Salada crua: couve, tomate e cebola, Fruta: Tangerina , Suco de abacaxi",
+          "items": [
+            {
+              "code": "40",
+              "gramsPortion": 100,
+              "name": "Massa de macarrão para sopa",
+              "replaceable": true
+            },
+            {
+              "code": "352",
+              "gramsPortion": 100,
+              "name": "Carne bovina moída",
+              "replaceable": true
+            },
+            {
+              "code": "319",
+              "gramsPortion": 100,
+              "name": "Sardinha em conserva",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "115",
+              "gramsPortion": 100,
+              "name": "Couve",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 51,
+          "schooltype": "EJA",
+          "mealtype": "Jantar",
+          "code": "51",
+          "description": "Macaxeira com frango cozido com quiabo e abobora, Fruta: Tangerina, Café com leite",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "147",
+              "gramsPortion": 100,
+              "name": "Quiabo",
+              "replaceable": true
+            },
+            {
+              "code": "319",
+              "gramsPortion": 100,
+              "name": "Sardinha em conserva",
+              "replaceable": true
+            },
+            {
+              "code": "130",
+              "gramsPortion": 100,
+              "name": "Macaxeira à vacuo",
+              "replaceable": true
+            },
+            {
+              "code": "69",
+              "gramsPortion": 100,
+              "name": "Abóbora",
+              "replaceable": true
+            },
+            {
+              "code": "511",
+              "gramsPortion": 100,
+              "name": "Café em pó",
+              "replaceable": true
+            },
+            {
+              "code": "459",
+              "gramsPortion": 100,
+              "name": "Leite em pó",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 52,
+          "schooltype": "EJA",
+          "mealtype": "Jantar",
+          "code": "52",
+          "description": "Macaxeira, Frango assado (coxa/sobrecoxa), Salada cozida/Vapor, Café com leite",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "130",
+              "gramsPortion": 100,
+              "name": "Macaxeira à vacuo",
+              "replaceable": true
+            },
+            {
+              "code": "511",
+              "gramsPortion": 100,
+              "name": "Café em pó",
+              "replaceable": true
+            },
+            {
+              "code": "459",
+              "gramsPortion": 100,
+              "name": "Leite em pó",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 53,
+          "schooltype": "EJA",
+          "mealtype": "Jantar",
+          "code": "53",
+          "description": "Risotto de frango / e ou Pé de moleque, Suco de acerola",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "48",
+              "gramsPortion": 100,
+              "name": "Pão tipo hot dog",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 54,
+          "schooltype": "EJA",
+          "mealtype": "Jantar",
+          "code": "54",
+          "description": "Sopa de feijão com Charque, Café com leite",
+          "items": [
+            {
+              "code": "40",
+              "gramsPortion": 100,
+              "name": "Massa de macarrão para sopa",
+              "replaceable": true
+            },
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "353",
+              "gramsPortion": 100,
+              "name": "Carne bovina salgada",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 55,
+          "schooltype": "EJA",
+          "mealtype": "Jantar",
+          "code": "55",
+          "description": "Sopa de feijão com macarrão, charque em cubinhos e verduras (batatinha, cenoura), Café com leite",
+          "items": [
+            {
+              "code": "40",
+              "gramsPortion": 100,
+              "name": "Massa de macarrão para sopa",
+              "replaceable": true
+            },
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "353",
+              "gramsPortion": 100,
+              "name": "Carne bovina salgada",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 56,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_manha",
+          "code": "56",
+          "description": "Arroz doce (arroz, leite de coco, leite, açúcar, coco ralado, canela), Fruta: Banana",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "182",
+              "gramsPortion": 100,
+              "name": "Banana prata",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "523",
+              "gramsPortion": 100,
+              "name": "Leite de coco",
+              "replaceable": true
+            },
+            {
+              "code": "590",
+              "gramsPortion": 100,
+              "name": "Coco seco ralado",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 57,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_manha",
+          "code": "57",
+          "description": "Arroz, feijão peixe ao molho Salada de alface, tomate e cebola, Suco de abacaxi",
+          "items": [
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "78",
+              "gramsPortion": 100,
+              "name": "Alface",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "251",
+              "gramsPortion": 100,
+              "name": "Tangerina",
+              "replaceable": true
+            },
+            {
+              "code": "401",
+              "gramsPortion": 100,
+              "name": "Filé de peixe",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 58,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_manha",
+          "code": "58",
+          "description": "Arroz, feijão, Isca de frango acebolado, Salada crua: couve, tomate, cebola, Fruta: Banana",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "182",
+              "gramsPortion": 100,
+              "name": "Banana prata",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "115",
+              "gramsPortion": 100,
+              "name": "Couve",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 59,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_manha",
+          "code": "59",
+          "description": "Arroz, feijão, frango cozido com batata e abóbora Fruta: Laranja",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "69",
+              "gramsPortion": 100,
+              "name": "Abóbora",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "208",
+              "gramsPortion": 100,
+              "name": "Laranja",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 60,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_manha",
+          "code": "60",
+          "description": "Batata doce com frango ao molho, Fruta: Tangerina",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "319",
+              "gramsPortion": 100,
+              "name": "Sardinha em conserva",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "89",
+              "gramsPortion": 100,
+              "name": "Batata doce",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 61,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_manha",
+          "code": "61",
+          "description": "Biscoito salgado, Achocolatado quente, Fruta: Melancia",
+          "items": [
+            {
+              "code": "235",
+              "gramsPortion": 100,
+              "name": "Melancia",
+              "replaceable": true
+            },
+            {
+              "code": "13",
+              "gramsPortion": 100,
+              "name": "Biscoito salgado",
+              "replaceable": true
+            },
+            {
+              "code": "491",
+              "gramsPortion": 100,
+              "name": "Achocolatado em pó",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 62,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_manha",
+          "code": "62",
+          "description": "Bolo, Achocolatado quente, Fruta: Melancia",
+          "items": [
+            {
+              "code": "15",
+              "gramsPortion": 100,
+              "name": "Bolo caseiro",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 63,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_manha",
+          "code": "63",
+          "description": "Bolo, Suco acerola, Fruta: Mamão",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "225",
+              "gramsPortion": 100,
+              "name": "Mamão",
+              "replaceable": true
+            },
+            {
+              "code": "489",
+              "gramsPortion": 100,
+              "name": "Ovo",
+              "replaceable": true
+            },
+            {
+              "code": "15",
+              "gramsPortion": 100,
+              "name": "Bolo caseiro",
+              "replaceable": true
+            },
+            {
+              "code": "35",
+              "gramsPortion": 100,
+              "name": "Farinha de trigo branca com fermento",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 64,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_manha",
+          "code": "64",
+          "description": "Cachorro quente de carne moída, (Pão, carne moída, temperos), Suco de abacaxi",
+          "items": [
+            {
+              "code": "352",
+              "gramsPortion": 100,
+              "name": "Carne bovina moída",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "48",
+              "gramsPortion": 100,
+              "name": "Pão tipo hot dog",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 65,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_manha",
+          "code": "65",
+          "description": "Cuscuz com ovos mexidos, Suco de maracujá",
+          "items": [
+            {
+              "code": "533",
+              "gramsPortion": 100,
+              "name": "Farinha de milho floco para cuscuz",
+              "replaceable": true
+            },
+            {
+              "code": "489",
+              "gramsPortion": 100,
+              "name": "Ovo",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 66,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_manha",
+          "code": "66",
+          "description": "Cuscuz temperado com ovo, Fruta: Melancia",
+          "items": [
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "533",
+              "gramsPortion": 100,
+              "name": "Farinha de milho floco para cuscuz",
+              "replaceable": true
+            },
+            {
+              "code": "489",
+              "gramsPortion": 100,
+              "name": "Ovo",
+              "replaceable": true
+            },
+            {
+              "code": "235",
+              "gramsPortion": 100,
+              "name": "Melancia",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 67,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_manha",
+          "code": "67",
+          "description": "Inhame com carne bovina ao molho, Fruta: Laranja",
+          "items": [
+            {
+              "code": "370",
+              "gramsPortion": 100,
+              "name": "Carne bovina congelada",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "126",
+              "gramsPortion": 100,
+              "name": "Inhame",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 68,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_manha",
+          "code": "68",
+          "description": "Inhame, Charque acebolado com batatinha, Fruta: Melancia",
+          "items": [
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "235",
+              "gramsPortion": 100,
+              "name": "Melancia",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "353",
+              "gramsPortion": 100,
+              "name": "Carne bovina salgada",
+              "replaceable": true
+            },
+            {
+              "code": "126",
+              "gramsPortion": 100,
+              "name": "Inhame",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 69,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_manha",
+          "code": "69",
+          "description": "Macarronada de carne moída, Couve refogada, Suco de acerola",
+          "items": [
+            {
+              "code": "40",
+              "gramsPortion": 100,
+              "name": "Massa de macarrão para sopa",
+              "replaceable": true
+            },
+            {
+              "code": "352",
+              "gramsPortion": 100,
+              "name": "Carne bovina moída",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 70,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_manha",
+          "code": "70",
+          "description": "Macarrão ao molho de tomate com carne moída, Salada crua: Alface, tomate, cebola, Suco de maracujá",
+          "items": [
+            {
+              "code": "40",
+              "gramsPortion": 100,
+              "name": "Massa de macarrão para sopa",
+              "replaceable": true
+            },
+            {
+              "code": "352",
+              "gramsPortion": 100,
+              "name": "Carne bovina moída",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "78",
+              "gramsPortion": 100,
+              "name": "Alface",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 71,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_manha",
+          "code": "71",
+          "description": "Macaxeira com carne bovina acebolada, Suco de abacaxi",
+          "items": [
+            {
+              "code": "370",
+              "gramsPortion": 100,
+              "name": "Carne bovina congelada",
+              "replaceable": true
+            },
+            {
+              "code": "130",
+              "gramsPortion": 100,
+              "name": "Macaxeira à vacuo",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 72,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_manha",
+          "code": "72",
+          "description": "Macaxeira com frango cozido com batatinha e abóbora, Fruta: Abacaxi em rodelas",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "130",
+              "gramsPortion": 100,
+              "name": "Macaxeira à vacuo",
+              "replaceable": true
+            },
+            {
+              "code": "69",
+              "gramsPortion": 100,
+              "name": "Abóbora",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 73,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_manha",
+          "code": "73",
+          "description": "Mungunzá com biscoito doce (Tipo :Maria)",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "523",
+              "gramsPortion": 100,
+              "name": "Leite de coco",
+              "replaceable": true
+            },
+            {
+              "code": "8",
+              "gramsPortion": 100,
+              "name": "Biscoito doce",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 74,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_manha",
+          "code": "74",
+          "description": "Pão de macaxeira com carne moída, Suco de maracujá",
+          "items": [
+            {
+              "code": "49",
+              "gramsPortion": 100,
+              "name": "Pão de macaxeira",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 75,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_manha",
+          "code": "75",
+          "description": "Risoto de frango com cenoura, Salada: Couve refogada, Fruta: Tangerina",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "115",
+              "gramsPortion": 100,
+              "name": "Couve",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 76,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_manha",
+          "code": "76",
+          "description": "Sopa de feijão e legumes com charque (feijão, batatinha, cenoura, charque, macarrão), Fruta: Abacaxi em rodelas",
+          "items": [
+            {
+              "code": "40",
+              "gramsPortion": 100,
+              "name": "Massa de macarrão para sopa",
+              "replaceable": true
+            },
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "353",
+              "gramsPortion": 100,
+              "name": "Carne bovina salgada",
+              "replaceable": true
+            },
+            {
+              "code": "164",
+              "gramsPortion": 100,
+              "name": "Abacaxi",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 77,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_manha",
+          "code": "77",
+          "description": "Torta salgada de carne moída com legumes, Suco de maracujá",
+          "items": [
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "489",
+              "gramsPortion": 100,
+              "name": "Ovo",
+              "replaceable": true
+            },
+            {
+              "code": "352",
+              "gramsPortion": 100,
+              "name": "Carne bovina moída",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "114",
+              "gramsPortion": 100,
+              "name": "Coentro",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            },
+            {
+              "code": "35",
+              "gramsPortion": 100,
+              "name": "Farinha de trigo branca com fermento",
+              "replaceable": true
+            },
+            {
+              "code": "272",
+              "gramsPortion": 100,
+              "name": "Óleo de soja",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 78,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "78",
+          "description": "Arroz doce (arroz, leite de coco, leite, açúcar, coco ralado, canela), Fruta: Banana",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "182",
+              "gramsPortion": 100,
+              "name": "Banana prata",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "523",
+              "gramsPortion": 100,
+              "name": "Leite de coco",
+              "replaceable": true
+            },
+            {
+              "code": "590",
+              "gramsPortion": 100,
+              "name": "Coco seco ralado",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 79,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "79",
+          "description": "Arroz, feijão peixe ao molho Salada de alface, tomate e cebola, Suco de abacaxi",
+          "items": [
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "78",
+              "gramsPortion": 100,
+              "name": "Alface",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "251",
+              "gramsPortion": 100,
+              "name": "Tangerina",
+              "replaceable": true
+            },
+            {
+              "code": "401",
+              "gramsPortion": 100,
+              "name": "Filé de peixe",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 80,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "80",
+          "description": "Arroz, feijão, Isca de frango acebolado, Salada crua: couve, tomate, cebola, Fruta: Banana",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "182",
+              "gramsPortion": 100,
+              "name": "Banana prata",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "115",
+              "gramsPortion": 100,
+              "name": "Couve",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 81,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "81",
+          "description": "Arroz, feijão, frango cozido com batata e abóbora Fruta: Laranja",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "69",
+              "gramsPortion": 100,
+              "name": "Abóbora",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "208",
+              "gramsPortion": 100,
+              "name": "Laranja",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 82,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "82",
+          "description": "Batata doce com frango ao molho, Fruta: Tangerina",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "319",
+              "gramsPortion": 100,
+              "name": "Sardinha em conserva",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "89",
+              "gramsPortion": 100,
+              "name": "Batata doce",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 83,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "83",
+          "description": "Biscoito salgado, Achocolatado quente, Fruta: Melancia",
+          "items": [
+            {
+              "code": "235",
+              "gramsPortion": 100,
+              "name": "Melancia",
+              "replaceable": true
+            },
+            {
+              "code": "13",
+              "gramsPortion": 100,
+              "name": "Biscoito salgado",
+              "replaceable": true
+            },
+            {
+              "code": "491",
+              "gramsPortion": 100,
+              "name": "Achocolatado em pó",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 84,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "84",
+          "description": "Bolo, Achocolatado quente, Fruta: Melancia",
+          "items": [
+            {
+              "code": "15",
+              "gramsPortion": 100,
+              "name": "Bolo caseiro",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 85,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "85",
+          "description": "Bolo, Suco acerola, Fruta: Mamão",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "225",
+              "gramsPortion": 100,
+              "name": "Mamão",
+              "replaceable": true
+            },
+            {
+              "code": "489",
+              "gramsPortion": 100,
+              "name": "Ovo",
+              "replaceable": true
+            },
+            {
+              "code": "15",
+              "gramsPortion": 100,
+              "name": "Bolo caseiro",
+              "replaceable": true
+            },
+            {
+              "code": "35",
+              "gramsPortion": 100,
+              "name": "Farinha de trigo branca com fermento",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 86,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "86",
+          "description": "Cachorro quente de carne moída, (Pão, carne moída, temperos), Suco de abacaxi",
+          "items": [
+            {
+              "code": "352",
+              "gramsPortion": 100,
+              "name": "Carne bovina moída",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "48",
+              "gramsPortion": 100,
+              "name": "Pão tipo hot dog",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 87,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "87",
+          "description": "Cuscuz com ovos mexidos, Suco de maracujá",
+          "items": [
+            {
+              "code": "533",
+              "gramsPortion": 100,
+              "name": "Farinha de milho floco para cuscuz",
+              "replaceable": true
+            },
+            {
+              "code": "489",
+              "gramsPortion": 100,
+              "name": "Ovo",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 88,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "88",
+          "description": "Cuscuz temperado com ovo, Fruta: Melancia",
+          "items": [
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "533",
+              "gramsPortion": 100,
+              "name": "Farinha de milho floco para cuscuz",
+              "replaceable": true
+            },
+            {
+              "code": "489",
+              "gramsPortion": 100,
+              "name": "Ovo",
+              "replaceable": true
+            },
+            {
+              "code": "235",
+              "gramsPortion": 100,
+              "name": "Melancia",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 89,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "89",
+          "description": "Inhame com carne bovina ao molho, Fruta: Laranja",
+          "items": [
+            {
+              "code": "370",
+              "gramsPortion": 100,
+              "name": "Carne bovina congelada",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "126",
+              "gramsPortion": 100,
+              "name": "Inhame",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 90,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "90",
+          "description": "Inhame, Charque acebolado com batatinha, Fruta: Melancia",
+          "items": [
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "235",
+              "gramsPortion": 100,
+              "name": "Melancia",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "353",
+              "gramsPortion": 100,
+              "name": "Carne bovina salgada",
+              "replaceable": true
+            },
+            {
+              "code": "126",
+              "gramsPortion": 100,
+              "name": "Inhame",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 91,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "91",
+          "description": "Macarronada de carne moída, Couve refogada, Suco de acerola",
+          "items": [
+            {
+              "code": "40",
+              "gramsPortion": 100,
+              "name": "Massa de macarrão para sopa",
+              "replaceable": true
+            },
+            {
+              "code": "352",
+              "gramsPortion": 100,
+              "name": "Carne bovina moída",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 92,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "92",
+          "description": "Macarrão ao molho de tomate com carne moída, Salada crua: Alface, tomate, cebola, Suco de maracujá",
+          "items": [
+            {
+              "code": "40",
+              "gramsPortion": 100,
+              "name": "Massa de macarrão para sopa",
+              "replaceable": true
+            },
+            {
+              "code": "352",
+              "gramsPortion": 100,
+              "name": "Carne bovina moída",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "78",
+              "gramsPortion": 100,
+              "name": "Alface",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 93,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "93",
+          "description": "Macaxeira com carne bovina acebolada, Suco de abacaxi",
+          "items": [
+            {
+              "code": "370",
+              "gramsPortion": 100,
+              "name": "Carne bovina congelada",
+              "replaceable": true
+            },
+            {
+              "code": "130",
+              "gramsPortion": 100,
+              "name": "Macaxeira à vacuo",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 94,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "94",
+          "description": "Macaxeira com frango cozido com batatinha e abóbora, Fruta: Abacaxi em rodelas",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "130",
+              "gramsPortion": 100,
+              "name": "Macaxeira à vacuo",
+              "replaceable": true
+            },
+            {
+              "code": "69",
+              "gramsPortion": 100,
+              "name": "Abóbora",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 95,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "95",
+          "description": "Mungunzá com biscoito doce (Tipo :Maria)",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "523",
+              "gramsPortion": 100,
+              "name": "Leite de coco",
+              "replaceable": true
+            },
+            {
+              "code": "8",
+              "gramsPortion": 100,
+              "name": "Biscoito doce",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 96,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "96",
+          "description": "Pão de macaxeira com carne moída, Suco de maracujá",
+          "items": [
+            {
+              "code": "49",
+              "gramsPortion": 100,
+              "name": "Pão de macaxeira",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 97,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "97",
+          "description": "Risoto de frango com cenoura, Salada: Couve refogada, Fruta: Tangerina",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "115",
+              "gramsPortion": 100,
+              "name": "Couve",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 98,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "98",
+          "description": "Sopa de feijão e legumes com charque (feijão, batatinha, cenoura, charque, macarrão), Fruta: Abacaxi em rodelas",
+          "items": [
+            {
+              "code": "40",
+              "gramsPortion": 100,
+              "name": "Massa de macarrão para sopa",
+              "replaceable": true
+            },
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "353",
+              "gramsPortion": 100,
+              "name": "Carne bovina salgada",
+              "replaceable": true
+            },
+            {
+              "code": "164",
+              "gramsPortion": 100,
+              "name": "Abacaxi",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 99,
+          "schooltype": "PRE_ESCOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "99",
+          "description": "Torta salgada de carne moída com legumes, Suco de maracujá",
+          "items": [
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "489",
+              "gramsPortion": 100,
+              "name": "Ovo",
+              "replaceable": true
+            },
+            {
+              "code": "352",
+              "gramsPortion": 100,
+              "name": "Carne bovina moída",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "114",
+              "gramsPortion": 100,
+              "name": "Coentro",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            },
+            {
+              "code": "35",
+              "gramsPortion": 100,
+              "name": "Farinha de trigo branca com fermento",
+              "replaceable": true
+            },
+            {
+              "code": "272",
+              "gramsPortion": 100,
+              "name": "Óleo de soja",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 100,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_manha",
+          "code": "100",
+          "description": "Arroz doce, Biscoito doce, Fruta: Banana",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "182",
+              "gramsPortion": 100,
+              "name": "Banana prata",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "523",
+              "gramsPortion": 100,
+              "name": "Leite de coco",
+              "replaceable": true
+            },
+            {
+              "code": "590",
+              "gramsPortion": 100,
+              "name": "Coco seco ralado",
+              "replaceable": true
+            },
+            {
+              "code": "8",
+              "gramsPortion": 100,
+              "name": "Biscoito doce",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 101,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_manha",
+          "code": "101",
+          "description": "Arroz, feijão peixe ao molho Salada de alface, tomate e cebola, Suco de abacaxi",
+          "items": [
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "78",
+              "gramsPortion": 100,
+              "name": "Alface",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "401",
+              "gramsPortion": 100,
+              "name": "Filé de peixe",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_manha",
+          "code": "102",
+          "description": "Arroz, feijão, Isca de frango acebolado, Salada crua: couve, tomate, cebola, Fruta: Mamão em cubos",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "115",
+              "gramsPortion": 100,
+              "name": "Couve",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_manha",
+          "code": "103",
+          "description": "Arroz, feijão, frango cozido, Salada crua: Cenoura e beterraba ralada, Fruta: Laranja\n",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "98",
+              "gramsPortion": 100,
+              "name": "Beterraba",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            },
+            {
+              "code": "208",
+              "gramsPortion": 100,
+              "name": "Laranja",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_manha",
+          "code": "104",
+          "description": "Batata doce, Frango coxa e sobrecoxa assada, Fruta: Tangerina",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "319",
+              "gramsPortion": 100,
+              "name": "Sardinha em conserva",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "89",
+              "gramsPortion": 100,
+              "name": "Batata doce",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 105,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_manha",
+          "code": "105",
+          "description": "Biscoito salgado, Achocolatado quente, Fruta: Melancia",
+          "items": [
+            {
+              "code": "235",
+              "gramsPortion": 100,
+              "name": "Melancia",
+              "replaceable": true
+            },
+            {
+              "code": "13",
+              "gramsPortion": 100,
+              "name": "Biscoito salgado",
+              "replaceable": true
+            },
+            {
+              "code": "491",
+              "gramsPortion": 100,
+              "name": "Achocolatado em pó",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_manha",
+          "code": "106",
+          "description": "Bolo, Achocolatado quente, Fruta: Melancia",
+          "items": [
+            {
+              "code": "15",
+              "gramsPortion": 100,
+              "name": "Bolo caseiro",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 107,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_manha",
+          "code": "107",
+          "description": "Bolo, Suco de acerola, Fruta: Mamão",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "225",
+              "gramsPortion": 100,
+              "name": "Mamão",
+              "replaceable": true
+            },
+            {
+              "code": "489",
+              "gramsPortion": 100,
+              "name": "Ovo",
+              "replaceable": true
+            },
+            {
+              "code": "15",
+              "gramsPortion": 100,
+              "name": "Bolo caseiro",
+              "replaceable": true
+            },
+            {
+              "code": "35",
+              "gramsPortion": 100,
+              "name": "Farinha de trigo branca com fermento",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 108,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_manha",
+          "code": "108",
+          "description": "Cachorro quente de carne moída, Suco de abacaxi",
+          "items": [
+            {
+              "code": "352",
+              "gramsPortion": 100,
+              "name": "Carne bovina moída",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "164",
+              "gramsPortion": 100,
+              "name": "Abacaxi",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "48",
+              "gramsPortion": 100,
+              "name": "Pão tipo hot dog",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 109,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_manha",
+          "code": "109",
+          "description": "Cuscuz com ovos mexidos, Suco de maracujá",
+          "items": [
+            {
+              "code": "533",
+              "gramsPortion": 100,
+              "name": "Farinha de milho floco para cuscuz",
+              "replaceable": true
+            },
+            {
+              "code": "489",
+              "gramsPortion": 100,
+              "name": "Ovo",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 110,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_manha",
+          "code": "110",
+          "description": "Cuscuz temperado com ovo, Fruta: Melancia",
+          "items": [
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "533",
+              "gramsPortion": 100,
+              "name": "Farinha de milho floco para cuscuz",
+              "replaceable": true
+            },
+            {
+              "code": "489",
+              "gramsPortion": 100,
+              "name": "Ovo",
+              "replaceable": true
+            },
+            {
+              "code": "235",
+              "gramsPortion": 100,
+              "name": "Melancia",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 111,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_manha",
+          "code": "111",
+          "description": "Inhame com carne bovina ao molho, Fruta: Laranja",
+          "items": [
+            {
+              "code": "370",
+              "gramsPortion": 100,
+              "name": "Carne bovina congelada",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "208",
+              "gramsPortion": 100,
+              "name": "Laranja",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "126",
+              "gramsPortion": 100,
+              "name": "Inhame",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 112,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_manha",
+          "code": "112",
+          "description": "Inhame, Charque acebolado com batatinha, Fruta: Melancia",
+          "items": [
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "235",
+              "gramsPortion": 100,
+              "name": "Melancia",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "353",
+              "gramsPortion": 100,
+              "name": "Carne bovina salgada",
+              "replaceable": true
+            },
+            {
+              "code": "126",
+              "gramsPortion": 100,
+              "name": "Inhame",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 113,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_manha",
+          "code": "113",
+          "description": "Macarronada de carne moída, Couve refogada, Suco de acerola",
+          "items": [
+            {
+              "code": "40",
+              "gramsPortion": 100,
+              "name": "Massa de macarrão para sopa",
+              "replaceable": true
+            },
+            {
+              "code": "352",
+              "gramsPortion": 100,
+              "name": "Carne bovina moída",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 114,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_manha",
+          "code": "114",
+          "description": "Macarrão ao molho de tomate com carne moída Salada crua: Alface, tomate, cebola, Suco de maracujá",
+          "items": [
+            {
+              "code": "40",
+              "gramsPortion": 100,
+              "name": "Massa de macarrão para sopa",
+              "replaceable": true
+            },
+            {
+              "code": "352",
+              "gramsPortion": 100,
+              "name": "Carne bovina moída",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "78",
+              "gramsPortion": 100,
+              "name": "Alface",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 115,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_manha",
+          "code": "115",
+          "description": "Macaxeira com carne bovina acebolada + Vinagrete, Suco de goiaba",
+          "items": [
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "370",
+              "gramsPortion": 100,
+              "name": "Carne bovina congelada",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "130",
+              "gramsPortion": 100,
+              "name": "Macaxeira à vacuo",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 116,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_manha",
+          "code": "116",
+          "description": "Macaxeira, frango cozido com batatinha e abóbora, Fruta: Abacaxi em rodelas",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "130",
+              "gramsPortion": 100,
+              "name": "Macaxeira à vacuo",
+              "replaceable": true
+            },
+            {
+              "code": "69",
+              "gramsPortion": 100,
+              "name": "Abóbora",
+              "replaceable": true
+            },
+            {
+              "code": "164",
+              "gramsPortion": 100,
+              "name": "Abacaxi",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 117,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_manha",
+          "code": "117",
+          "description": "Mungunzá com biscoito doce (Tipo :Maria)",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "523",
+              "gramsPortion": 100,
+              "name": "Leite de coco",
+              "replaceable": true
+            },
+            {
+              "code": "8",
+              "gramsPortion": 100,
+              "name": "Biscoito doce",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 118,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_manha",
+          "code": "118",
+          "description": "Pão de macaxeira com carne moída, Suco de maracujá",
+          "items": [
+            {
+              "code": "49",
+              "gramsPortion": 100,
+              "name": "Pão de macaxeira",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 119,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_manha",
+          "code": "119",
+          "description": "Risoto de frango com cenoura, Salada: Couve refogada, Fruta: Tangerina",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "319",
+              "gramsPortion": 100,
+              "name": "Sardinha em conserva",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "115",
+              "gramsPortion": 100,
+              "name": "Couve",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 120,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_manha",
+          "code": "120",
+          "description": "Sopa de feijão, charque e legumes , Fruta: Abacaxi em rodelas",
+          "items": [
+            {
+              "code": "40",
+              "gramsPortion": 100,
+              "name": "Massa de macarrão para sopa",
+              "replaceable": true
+            },
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "353",
+              "gramsPortion": 100,
+              "name": "Carne bovina salgada",
+              "replaceable": true
+            },
+            {
+              "code": "164",
+              "gramsPortion": 100,
+              "name": "Abacaxi",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 121,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_manha",
+          "code": "121",
+          "description": "Torta salgada de carne moída com legumes, Suco de maracujá",
+          "items": [
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "489",
+              "gramsPortion": 100,
+              "name": "Ovo",
+              "replaceable": true
+            },
+            {
+              "code": "352",
+              "gramsPortion": 100,
+              "name": "Carne bovina moída",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "114",
+              "gramsPortion": 100,
+              "name": "Coentro",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            },
+            {
+              "code": "35",
+              "gramsPortion": 100,
+              "name": "Farinha de trigo branca com fermento",
+              "replaceable": true
+            },
+            {
+              "code": "272",
+              "gramsPortion": 100,
+              "name": "Óleo de soja",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 122,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "122",
+          "description": "Arroz doce, Biscoito doce, Fruta: Banana",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "182",
+              "gramsPortion": 100,
+              "name": "Banana prata",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "523",
+              "gramsPortion": 100,
+              "name": "Leite de coco",
+              "replaceable": true
+            },
+            {
+              "code": "590",
+              "gramsPortion": 100,
+              "name": "Coco seco ralado",
+              "replaceable": true
+            },
+            {
+              "code": "8",
+              "gramsPortion": 100,
+              "name": "Biscoito doce",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 123,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "123",
+          "description": "Arroz, feijão peixe ao molho Salada de alface, tomate e cebola, Suco de abacaxi",
+          "items": [
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "78",
+              "gramsPortion": 100,
+              "name": "Alface",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "401",
+              "gramsPortion": 100,
+              "name": "Filé de peixe",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 124,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "124",
+          "description": "Arroz, feijão, Isca de frango acebolado, Salada crua: couve, tomate, cebola, Fruta: Mamão em cubos",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "115",
+              "gramsPortion": 100,
+              "name": "Couve",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 125,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "125",
+          "description": "Arroz, feijão, frango cozido, Salada crua: Cenoura e beterraba ralada, Fruta: Laranja\n",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "98",
+              "gramsPortion": 100,
+              "name": "Beterraba",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            },
+            {
+              "code": "208",
+              "gramsPortion": 100,
+              "name": "Laranja",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 126,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "126",
+          "description": "Batata doce, Frango coxa e sobrecoxa assada, Fruta: Tangerina",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "319",
+              "gramsPortion": 100,
+              "name": "Sardinha em conserva",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "89",
+              "gramsPortion": 100,
+              "name": "Batata doce",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 127,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "127",
+          "description": "Biscoito salgado, Achocolatado quente, Fruta: Melancia",
+          "items": [
+            {
+              "code": "235",
+              "gramsPortion": 100,
+              "name": "Melancia",
+              "replaceable": true
+            },
+            {
+              "code": "13",
+              "gramsPortion": 100,
+              "name": "Biscoito salgado",
+              "replaceable": true
+            },
+            {
+              "code": "491",
+              "gramsPortion": 100,
+              "name": "Achocolatado em pó",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 128,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "128",
+          "description": "Bolo, Achocolatado quente, Fruta: Melancia",
+          "items": [
+            {
+              "code": "15",
+              "gramsPortion": 100,
+              "name": "Bolo caseiro",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 129,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "129",
+          "description": "Bolo, Suco de acerola, Fruta: Mamão",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "225",
+              "gramsPortion": 100,
+              "name": "Mamão",
+              "replaceable": true
+            },
+            {
+              "code": "489",
+              "gramsPortion": 100,
+              "name": "Ovo",
+              "replaceable": true
+            },
+            {
+              "code": "15",
+              "gramsPortion": 100,
+              "name": "Bolo caseiro",
+              "replaceable": true
+            },
+            {
+              "code": "35",
+              "gramsPortion": 100,
+              "name": "Farinha de trigo branca com fermento",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 130,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "130",
+          "description": "Cachorro quente de carne moída, Suco de abacaxi",
+          "items": [
+            {
+              "code": "352",
+              "gramsPortion": 100,
+              "name": "Carne bovina moída",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "164",
+              "gramsPortion": 100,
+              "name": "Abacaxi",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "48",
+              "gramsPortion": 100,
+              "name": "Pão tipo hot dog",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 131,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "131",
+          "description": "Cuscuz com ovos mexidos, Suco de maracujá",
+          "items": [
+            {
+              "code": "533",
+              "gramsPortion": 100,
+              "name": "Farinha de milho floco para cuscuz",
+              "replaceable": true
+            },
+            {
+              "code": "489",
+              "gramsPortion": 100,
+              "name": "Ovo",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 132,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "132",
+          "description": "Cuscuz temperado com ovo, Fruta: Melancia",
+          "items": [
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "533",
+              "gramsPortion": 100,
+              "name": "Farinha de milho floco para cuscuz",
+              "replaceable": true
+            },
+            {
+              "code": "489",
+              "gramsPortion": 100,
+              "name": "Ovo",
+              "replaceable": true
+            },
+            {
+              "code": "235",
+              "gramsPortion": 100,
+              "name": "Melancia",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 133,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "133",
+          "description": "Inhame com carne bovina ao molho, Fruta: Laranja",
+          "items": [
+            {
+              "code": "370",
+              "gramsPortion": 100,
+              "name": "Carne bovina congelada",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "208",
+              "gramsPortion": 100,
+              "name": "Laranja",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "126",
+              "gramsPortion": 100,
+              "name": "Inhame",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 134,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "134",
+          "description": "Inhame, Charque acebolado com batatinha, Fruta: Melancia",
+          "items": [
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "235",
+              "gramsPortion": 100,
+              "name": "Melancia",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "353",
+              "gramsPortion": 100,
+              "name": "Carne bovina salgada",
+              "replaceable": true
+            },
+            {
+              "code": "126",
+              "gramsPortion": 100,
+              "name": "Inhame",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 135,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "135",
+          "description": "Macarronada de carne moída, Couve refogada, Suco de acerola",
+          "items": [
+            {
+              "code": "40",
+              "gramsPortion": 100,
+              "name": "Massa de macarrão para sopa",
+              "replaceable": true
+            },
+            {
+              "code": "352",
+              "gramsPortion": 100,
+              "name": "Carne bovina moída",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 136,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "136",
+          "description": "Macarrão ao molho de tomate com carne moída Salada crua: Alface, tomate, cebola, Suco de maracujá",
+          "items": [
+            {
+              "code": "40",
+              "gramsPortion": 100,
+              "name": "Massa de macarrão para sopa",
+              "replaceable": true
+            },
+            {
+              "code": "352",
+              "gramsPortion": 100,
+              "name": "Carne bovina moída",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "78",
+              "gramsPortion": 100,
+              "name": "Alface",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 137,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "137",
+          "description": "Macaxeira com carne bovina acebolada + Vinagrete, Suco de goiaba",
+          "items": [
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "370",
+              "gramsPortion": 100,
+              "name": "Carne bovina congelada",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "130",
+              "gramsPortion": 100,
+              "name": "Macaxeira à vacuo",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 138,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "138",
+          "description": "Macaxeira, frango cozido com batatinha e abóbora, Fruta: Abacaxi em rodelas",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "130",
+              "gramsPortion": 100,
+              "name": "Macaxeira à vacuo",
+              "replaceable": true
+            },
+            {
+              "code": "69",
+              "gramsPortion": 100,
+              "name": "Abóbora",
+              "replaceable": true
+            },
+            {
+              "code": "164",
+              "gramsPortion": 100,
+              "name": "Abacaxi",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 139,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "139",
+          "description": "Mungunzá com biscoito doce (Tipo :Maria)",
+          "items": [
+            {
+              "code": "458",
+              "gramsPortion": 100,
+              "name": "Leite fluido UHT",
+              "replaceable": true
+            },
+            {
+              "code": "492",
+              "gramsPortion": 100,
+              "name": "Açúcar cristal",
+              "replaceable": true
+            },
+            {
+              "code": "523",
+              "gramsPortion": 100,
+              "name": "Leite de coco",
+              "replaceable": true
+            },
+            {
+              "code": "8",
+              "gramsPortion": 100,
+              "name": "Biscoito doce",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 140,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "140",
+          "description": "Pão de macaxeira com carne moída, Suco de maracujá",
+          "items": [
+            {
+              "code": "49",
+              "gramsPortion": 100,
+              "name": "Pão de macaxeira",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 141,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "141",
+          "description": "Risoto de frango com cenoura, Salada: Couve refogada, Fruta: Tangerina",
+          "items": [
+            {
+              "code": "397",
+              "gramsPortion": 100,
+              "name": "Franco (coxa e sobrecoxa)",
+              "replaceable": true
+            },
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "319",
+              "gramsPortion": 100,
+              "name": "Sardinha em conserva",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "158",
+              "gramsPortion": 100,
+              "name": "Extrato de tomate",
+              "replaceable": true
+            },
+            {
+              "code": "115",
+              "gramsPortion": 100,
+              "name": "Couve",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 142,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "142",
+          "description": "Sopa de feijão, charque e legumes , Fruta: Abacaxi em rodelas",
+          "items": [
+            {
+              "code": "40",
+              "gramsPortion": 100,
+              "name": "Massa de macarrão para sopa",
+              "replaceable": true
+            },
+            {
+              "code": "92",
+              "gramsPortion": 100,
+              "name": "Batata inglesa",
+              "replaceable": true
+            },
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "562",
+              "gramsPortion": 100,
+              "name": "Feijão carioquinha",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "353",
+              "gramsPortion": 100,
+              "name": "Carne bovina salgada",
+              "replaceable": true
+            },
+            {
+              "code": "164",
+              "gramsPortion": 100,
+              "name": "Abacaxi",
+              "replaceable": true
+            },
+            {
+              "code": "108",
+              "gramsPortion": 100,
+              "name": "Cebolinha",
+              "replaceable": true
+            },
+            {
+              "code": "144",
+              "gramsPortion": 100,
+              "name": "Pimentão",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            }
+          ]
+        },
+        {
+          "id": 143,
+          "schooltype": "QUILOMBOLA",
+          "mealtype": "Lanche_tarde",
+          "code": "143",
+          "description": "Torta salgada de carne moída com legumes, Suco de maracujá",
+          "items": [
+            {
+              "code": "110",
+              "gramsPortion": 100,
+              "name": "Cenoura",
+              "replaceable": true
+            },
+            {
+              "code": "489",
+              "gramsPortion": 100,
+              "name": "Ovo",
+              "replaceable": true
+            },
+            {
+              "code": "352",
+              "gramsPortion": 100,
+              "name": "Carne bovina moída",
+              "replaceable": true
+            },
+            {
+              "code": "107",
+              "gramsPortion": 100,
+              "name": "Cebola",
+              "replaceable": true
+            },
+            {
+              "code": "157",
+              "gramsPortion": 100,
+              "name": "Tomate",
+              "replaceable": true
+            },
+            {
+              "code": "114",
+              "gramsPortion": 100,
+              "name": "Coentro",
+              "replaceable": true
+            },
+            {
+              "code": "82",
+              "gramsPortion": 100,
+              "name": "Alho",
+              "replaceable": true
+            },
+            {
+              "code": "35",
+              "gramsPortion": 100,
+              "name": "Farinha de trigo branca com fermento",
+              "replaceable": true
+            },
+            {
+              "code": "272",
+              "gramsPortion": 100,
+              "name": "Óleo de soja",
+              "replaceable": true
+            }
+          ]
+        }
+      ]
+}

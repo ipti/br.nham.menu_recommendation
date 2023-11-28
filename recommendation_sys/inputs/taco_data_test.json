@@ -1,0 +1,3590 @@
+[
+  {
+    "code": "1",
+    "name": "Arroz integral cozido",
+    "grupo": "CARBO1",
+    "gramsPortion": 100
+  },
+  {
+    "code": "2",
+    "name": "Arroz integral cru",
+    "grupo": "CARBO1",
+    "gramsPortion": 100
+  },
+  {
+    "code": "3",
+    "name": "Arroz tipo 1 cozido",
+    "grupo": "CARBO1",
+    "gramsPortion": 100
+  },
+  {
+    "code": "4",
+    "name": "Arroz tipo 1 cru",
+    "grupo": "CARBO1",
+    "gramsPortion": 100
+  },
+  {
+    "code": "5",
+    "name": "Arroz tipo 2 cozido",
+    "grupo": "CARBO1",
+    "gramsPortion": 100
+  },
+  {
+    "code": "6",
+    "name": "Arroz tipo 2 cru",
+    "grupo": "CARBO1",
+    "gramsPortion": 100
+  },
+  {
+    "code": "7",
+    "name": "Aveia flocos crua",
+    "grupo": "CARBO1",
+    "gramsPortion": 100
+  },
+  {
+    "code": "8",
+    "name": "Biscoito doce maisena",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "9",
+    "name": "Biscoito doce recheado com chocolate",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "10",
+    "name": "Biscoito doce recheado com morango",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "11",
+    "name": "Biscoito doce wafer recheado de chocolate",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "12",
+    "name": "Biscoito doce wafer recheado de morango",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "13",
+    "name": "Biscoito salgado cream cracker",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "14",
+    "name": "Bolo mistura para",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "15",
+    "name": "Bolo pronto aipim",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "16",
+    "name": "Bolo pronto chocolate",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "17",
+    "name": "Bolo pronto coco",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "18",
+    "name": "Bolo pronto milho",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "19",
+    "name": "Canjica branca crua",
+    "grupo": "CEREAIS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "20",
+    "name": "Canjica com leite integral",
+    "grupo": "CEREAIS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "21",
+    "name": "Cereais milho flocos com sal",
+    "grupo": "CEREAIS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "22",
+    "name": "Cereais milho flocos sem sal",
+    "grupo": "CEREAIS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "23",
+    "name": "Cereais mingau milho infantil",
+    "grupo": "CEREAIS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "24",
+    "name": "Cereais mistura para vitamina trigo cevada e aveia",
+    "grupo": "CEREAIS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "25",
+    "name": "Cereal matinal milho",
+    "grupo": "CEREAIS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "26",
+    "name": "Cereal matinal milho açúcar",
+    "grupo": "CEREAIS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "27",
+    "name": "Creme de arroz pó",
+    "grupo": "CEREAIS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "28",
+    "name": "Creme de milho pó",
+    "grupo": "CEREAIS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "29",
+    "name": "Curau milho verde",
+    "grupo": "CEREAIS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "30",
+    "name": "Curau milho verde mistura para",
+    "grupo": "CEREAIS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "31",
+    "name": "Farinha de arroz enriquecida",
+    "grupo": "FARINHAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "32",
+    "name": "Farinha de centeio integral",
+    "grupo": "FARINHAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "33",
+    "name": "Farinha de milho amarela",
+    "grupo": "FARINHAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "34",
+    "name": "Farinha de rosca",
+    "grupo": "FARINHAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "35",
+    "name": "Farinha de trigo",
+    "grupo": "FARINHAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "36",
+    "name": "Farinha láctea de cereais",
+    "grupo": "FARINHAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "37",
+    "name": "Lasanha massa fresca cozida",
+    "grupo": "CARBO1",
+    "gramsPortion": 100
+  },
+  {
+    "code": "38",
+    "name": "Lasanha massa fresca crua",
+    "grupo": "CARBO1",
+    "gramsPortion": 100
+  },
+  {
+    "code": "39",
+    "name": "Macarrão instantâneo",
+    "grupo": "CARBO1",
+    "gramsPortion": 100
+  },
+  {
+    "code": "40",
+    "name": "Macarrão trigo cru",
+    "grupo": "CARBO1",
+    "gramsPortion": 100
+  },
+  {
+    "code": "41",
+    "name": "Macarrão trigo cru com ovos",
+    "grupo": "CARBO1",
+    "gramsPortion": 100
+  },
+  {
+    "code": "42",
+    "name": "Milho amido cru",
+    "grupo": "FARINHAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "43",
+    "name": "Milho fubá cru",
+    "grupo": "FARINHAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "44",
+    "name": "Milho verde cru",
+    "grupo": "CARBO1",
+    "gramsPortion": 100
+  },
+  {
+    "code": "45",
+    "name": "Milho verde enlatado drenado",
+    "grupo": "CARBO1",
+    "gramsPortion": 100
+  },
+  {
+    "code": "46",
+    "name": "Mingau tradicional pó",
+    "grupo": "FARINHAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "47",
+    "name": "Pamonha barra para cozimento pré-cozida",
+    "grupo": "CEREAIS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "48",
+    "name": "Pão aveia forma",
+    "grupo": "CEREAIS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "49",
+    "name": "Pão de soja",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "50",
+    "name": "Pão glúten forma",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "51",
+    "name": "Pão milho forma",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "52",
+    "name": "Pão trigo forma integral",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "53",
+    "name": "Pão trigo francês",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "54",
+    "name": "Pão trigo sovado",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "55",
+    "name": "Pastel de carne cru",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "56",
+    "name": "Pastel de carne frito",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "57",
+    "name": "Pastel de queijo cru",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "58",
+    "name": "Pastel de queijo frito",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "59",
+    "name": "Pastel massa crua",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "60",
+    "name": "Pastel massa frita",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "61",
+    "name": "Pipoca com óleo de soja sem sal",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "62",
+    "name": "Polenta pré-cozida",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "63",
+    "name": "Torrada pão francês",
+    "grupo": "PANIFICADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "64",
+    "name": "Abóbora cabotian cozida",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "65",
+    "name": "Abóbora cabotian crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "66",
+    "name": "Abóbora menina brasileira crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "67",
+    "name": "Abóbora moranga crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "68",
+    "name": "Abóbora moranga refogada",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "69",
+    "name": "Abóbora pescoço crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "70",
+    "name": "Abobrinha italiana cozida",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "71",
+    "name": "Abobrinha italiana crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "72",
+    "name": "Abobrinha italiana refogada",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "73",
+    "name": "Abobrinha paulista crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "74",
+    "name": "Acelga crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "75",
+    "name": "Agrião cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "76",
+    "name": "Aipo cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "77",
+    "name": "Alface americana crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "78",
+    "name": "Alface crespa crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "79",
+    "name": "Alface lisa crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "80",
+    "name": "Alface roxa crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "81",
+    "name": "Alfavaca crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "82",
+    "name": "Alho cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "83",
+    "name": "Alho-poró cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "84",
+    "name": "Almeirão cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "85",
+    "name": "Almeirão refogado",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "86",
+    "name": "Batata baroa cozida",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "87",
+    "name": "Batata baroa crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "88",
+    "name": "Batata doce cozida",
+    "grupo": "CARBO2",
+    "gramsPortion": 100
+  },
+  {
+    "code": "89",
+    "name": "Batata doce crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "90",
+    "name": "Batata frita tipo chips industrializada",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "91",
+    "name": "Batata inglesa cozida",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "92",
+    "name": "Batata inglesa crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "93",
+    "name": "Batata inglesa frita",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "94",
+    "name": "Batata inglesa sauté",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "95",
+    "name": "Berinjela cozida",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "96",
+    "name": "Berinjela crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "97",
+    "name": "Beterraba cozida",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "98",
+    "name": "Beterraba crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "99",
+    "name": "Biscoito polvilho doce",
+    "grupo": "FARINHAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "100",
+    "name": "Brócolis cozido",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "101",
+    "name": "Brócolis cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "102",
+    "name": "Cará cozido",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "103",
+    "name": "Cará cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "104",
+    "name": "Caruru cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "105",
+    "name": "Catalonha crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "106",
+    "name": "Catalonha refogada",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "107",
+    "name": "Cebola crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "108",
+    "name": "Cebolinha crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "109",
+    "name": "Cenoura cozida",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "110",
+    "name": "Cenoura crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "111",
+    "name": "Chicória crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "112",
+    "name": "Chuchu cozido",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "113",
+    "name": "Chuchu cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "114",
+    "name": "Coentro folhas desidratadas",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "115",
+    "name": "Couve manteiga crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "116",
+    "name": "Couve manteiga refogada",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "117",
+    "name": "Couve-flor crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "118",
+    "name": "Couve-flor cozida",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "119",
+    "name": "Espinafre Nova Zelândia cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "120",
+    "name": "Espinafre Nova Zelândia refogado",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "121",
+    "name": "Farinha de mandioca crua",
+    "grupo": "FARINHAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "122",
+    "name": "Farinha de mandioca torrada",
+    "grupo": "FARINHAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "123",
+    "name": "Farinha de puba",
+    "grupo": "FARINHAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "124",
+    "name": "Fécula de mandioca",
+    "grupo": "FARINHAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "125",
+    "name": "Feijão broto cru",
+    "grupo": "LEGUM",
+    "gramsPortion": 100
+  },
+  {
+    "code": "126",
+    "name": "Inhame cru",
+    "grupo": "CARBO2",
+    "gramsPortion": 100
+  },
+  {
+    "code": "127",
+    "name": "Jiló cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "128",
+    "name": "Jurubeba crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "129",
+    "name": "Mandioca cozida",
+    "grupo": "CARBO2",
+    "gramsPortion": 100
+  },
+  {
+    "code": "130",
+    "name": "Mandioca crua",
+    "grupo": "CARBO2",
+    "gramsPortion": 100
+  },
+  {
+    "code": "131",
+    "name": "Mandioca farofa temperada",
+    "grupo": "CARBO2",
+    "gramsPortion": 100
+  },
+  {
+    "code": "132",
+    "name": "Mandioca frita",
+    "grupo": "CARBO2",
+    "gramsPortion": 100
+  },
+  {
+    "code": "133",
+    "name": "Manjericão cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "134",
+    "name": "Maxixe cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "135",
+    "name": "Mostarda folha crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "136",
+    "name": "Nhoque batata cozido",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "137",
+    "name": "Nabo cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "138",
+    "name": "Palmito Juçara em conserva",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "139",
+    "name": "Palmito pupunha em conserva",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "140",
+    "name": "Pão de queijo assado",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "141",
+    "name": "Pão de queijo cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "142",
+    "name": "Pepino cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "143",
+    "name": "Pimentão amarelo cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "144",
+    "name": "Pimentão verde cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "145",
+    "name": "Pimentão vermelho cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "146",
+    "name": "Polvilho doce",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "147",
+    "name": "Quiabo cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "148",
+    "name": "Rabanete cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "149",
+    "name": "Repolho branco cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "150",
+    "name": "Repolho roxo cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "151",
+    "name": "Repolho roxo refogado",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "152",
+    "name": "Rúcula crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "153",
+    "name": "Salsa crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "154",
+    "name": "Seleta de legumes enlatada",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "155",
+    "name": "Serralha crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "156",
+    "name": "Taioba crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "157",
+    "name": "Tomate com semente cru",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "158",
+    "name": "Tomate extrato",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "159",
+    "name": "Tomate molho industrializado",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "160",
+    "name": "Tomate purê",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "161",
+    "name": "Tomate salada",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "162",
+    "name": "Vagem crua",
+    "grupo": "HORTALICAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "163",
+    "name": "Abacate cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "164",
+    "name": "Abacaxi cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "165",
+    "name": "Abacaxi polpa congelada",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "166",
+    "name": "Abiu cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "167",
+    "name": "Açaí polpa com xarope de guaraná e glucose",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "168",
+    "name": "Açaí polpa congelada",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "169",
+    "name": "Acerola crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "170",
+    "name": "Acerola polpa congelada",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "171",
+    "name": "Ameixa calda enlatada",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "172",
+    "name": "Ameixa crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "173",
+    "name": "Ameixa em calda enlatada drenada",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "174",
+    "name": "Atemóia crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "175",
+    "name": "Banana da terra crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "176",
+    "name": "Banana doce em barra",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "177",
+    "name": "Banana figo crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "178",
+    "name": "Banana maçã crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "179",
+    "name": "Banana nanica crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "180",
+    "name": "Banana ouro crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "181",
+    "name": "Banana pacova crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "182",
+    "name": "Banana prata crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "183",
+    "name": "Cacau cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "184",
+    "name": "Cajá-Manga cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "185",
+    "name": "Cajá polpa congelada",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "186",
+    "name": "Caju cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "187",
+    "name": "Caju polpa congelada",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "188",
+    "name": "Caju suco concentrado envasado",
+    "grupo": "BEBIDAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "189",
+    "name": "Caqui chocolate cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "190",
+    "name": "Carambola crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "191",
+    "name": "Ciriguela crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "192",
+    "name": "Cupuaçu cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "193",
+    "name": "Cupuaçu polpa congelada",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "194",
+    "name": "Figo cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "195",
+    "name": "Figo enlatado em calda",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "196",
+    "name": "Fruta-pão crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "197",
+    "name": "Goiaba branca com casca crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "198",
+    "name": "Goiaba doce em pasta",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "199",
+    "name": "Goiaba doce cascão",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "200",
+    "name": "Goiaba vermelha com casca crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "201",
+    "name": "Graviola crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "202",
+    "name": "Graviola polpa congelada",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "203",
+    "name": "Jabuticaba crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "204",
+    "name": "Jaca crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "205",
+    "name": "Jambo cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "206",
+    "name": "Jamelão cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "207",
+    "name": "Kiwi cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "208",
+    "name": "Laranja baía crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "209",
+    "name": "Laranja baía suco",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "210",
+    "name": "Laranja da terra crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "211",
+    "name": "Laranja da terra suco",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "212",
+    "name": "Laranja lima crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "213",
+    "name": "Laranja lima suco",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "214",
+    "name": "Laranja pêra crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "215",
+    "name": "Laranja pêra suco",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "216",
+    "name": "Laranja valência crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "217",
+    "name": "Laranja valência suco",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "218",
+    "name": "Limão cravo suco",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "219",
+    "name": "Limão galego suco",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "220",
+    "name": "Limão tahiti cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "221",
+    "name": "Maçã Argentina com casca crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "222",
+    "name": "Maçã Fuji com casca crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "223",
+    "name": "Macaúba crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "224",
+    "name": "Mamão doce em calda drenado",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "225",
+    "name": "Mamão Formosa cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "226",
+    "name": "Mamão Papaia cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "227",
+    "name": "Mamão verde doce em calda drenado",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "228",
+    "name": "Manga Haden crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "229",
+    "name": "Manga Palmer crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "230",
+    "name": "Manga polpa congelada",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "231",
+    "name": "Manga Tommy Atkins crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "232",
+    "name": "Maracujá cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "233",
+    "name": "Maracujá polpa congelada",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "234",
+    "name": "Maracujá suco concentrado envasado",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "235",
+    "name": "Melancia crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "236",
+    "name": "Melão cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "237",
+    "name": "Mexerica Murcote crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "238",
+    "name": "Mexerica Rio crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "239",
+    "name": "Morango cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "240",
+    "name": "Nêspera crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "241",
+    "name": "Pequi cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "242",
+    "name": "Pêra Park crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "243",
+    "name": "Pêra Williams crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "244",
+    "name": "Pêssego Aurora cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "245",
+    "name": "Pêssego enlatado em calda",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "246",
+    "name": "Pinha crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "247",
+    "name": "Pitanga crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "248",
+    "name": "Pitanga polpa congelada",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "249",
+    "name": "Romã crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "250",
+    "name": "Tamarindo cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "251",
+    "name": "Tangerina Poncã crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "252",
+    "name": "Tangerina Poncã suco",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "253",
+    "name": "Tucumã cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "254",
+    "name": "Umbu cru",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "255",
+    "name": "Umbu polpa congelada",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "256",
+    "name": "Uva Itália crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "257",
+    "name": "Uva Rubi crua",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "258",
+    "name": "Uva suco concentrado envasado",
+    "grupo": "FRUTAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "259",
+    "name": "Azeite de dendê",
+    "grupo": "OLEOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "260",
+    "name": "Azeite de oliva extra virgem",
+    "grupo": "OLEOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "261",
+    "name": "Manteiga com sal",
+    "grupo": "OLEOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "262",
+    "name": "Manteiga sem sal",
+    "grupo": "OLEOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "263",
+    "name": "Margarina com óleo hidrogenado com sal (65% de lipídeos)",
+    "grupo": "OLEOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "264",
+    "name": "Margarina com óleo hidrogenado sem sal (80% de lipídeos)",
+    "grupo": "OLEOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "265",
+    "name": "Margarina com óleo interesterificado com sal (65%de lipídeos)",
+    "grupo": "OLEOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "266",
+    "name": "Margarina com óleo interesterificado sem sal (65% de lipídeos)",
+    "grupo": "OLEOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "267",
+    "name": "Óleo de babaçu",
+    "grupo": "OLEOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "268",
+    "name": "Óleo de canola",
+    "grupo": "OLEOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "269",
+    "name": "Óleo de girassol",
+    "grupo": "OLEOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "270",
+    "name": "Óleo de milho",
+    "grupo": "OLEOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "271",
+    "name": "Óleo de pequi",
+    "grupo": "OLEOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "272",
+    "name": "Óleo de soja",
+    "grupo": "OLEOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "273",
+    "name": "Abadejo filé congelado assado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "274",
+    "name": "Abadejo filé congelado,cozido",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "275",
+    "name": "Abadejo filé congelado cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "276",
+    "name": "Abadejo filé congelado grelhado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "277",
+    "name": "Atum conserva em óleo",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "278",
+    "name": "Atum fresco cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "279",
+    "name": "Bacalhau salgado cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "280",
+    "name": "Bacalhau salgado refogado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "281",
+    "name": "Cação posta com farinha de trigo frita",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "282",
+    "name": "Cação posta cozida",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "283",
+    "name": "Cação posta crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "284",
+    "name": "Camarão Rio Grande grande cozido",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "285",
+    "name": "Camarão Rio Grande grande cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "286",
+    "name": "Camarão Sete Barbas sem cabeça com casca frito",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "287",
+    "name": "Caranguejo cozido",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "288",
+    "name": "Corimba cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "289",
+    "name": "Corimbatá assado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "290",
+    "name": "Corimbatá cozido",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "291",
+    "name": "Corvina de água doce crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "292",
+    "name": "Corvina do mar crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "293",
+    "name": "Corvina grande assada",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "294",
+    "name": "Corvina grande cozida",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "295",
+    "name": "Dourada de água doce fresca",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "296",
+    "name": "Lambari congelado cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "297",
+    "name": "Lambari congelado frito",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "298",
+    "name": "Lambari fresco,cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "299",
+    "name": "Manjuba com farinha de trigo frita",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "300",
+    "name": "Manjuba frita",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "301",
+    "name": "Merluza filé assado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "302",
+    "name": "Merluza filé cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "303",
+    "name": "Merluza filé frito",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "304",
+    "name": "Pescada branca crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "305",
+    "name": "Pescada branca frita",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "306",
+    "name": "Pescada filé com farinha de trigo frito",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "307",
+    "name": "Pescada filé cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "308",
+    "name": "Pescada filé frito",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "309",
+    "name": "Pescada filé molho escabeche",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "310",
+    "name": "Pescadinha crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "311",
+    "name": "Pintado assado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "312",
+    "name": "Pintado cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "313",
+    "name": "Pintado grelhado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "314",
+    "name": "Porquinho cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "315",
+    "name": "Salmão filé com pele fresco  grelhado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "316",
+    "name": "Salmão sem pele fresco cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "317",
+    "name": "Salmão sem pele fresco grelhado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "318",
+    "name": "Sardinha assada",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "319",
+    "name": "Sardinha conserva em óleo",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "320",
+    "name": "Sardinha frita",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "321",
+    "name": "Sardinha inteira crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "322",
+    "name": "Tucunaré filé congelado cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "323",
+    "name": "Apresuntado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "324",
+    "name": "Caldo de carne tablete",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "325",
+    "name": "Caldo de galinha tablete",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "326",
+    "name": "Carne bovina acém moído cozido",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "327",
+    "name": "Carne bovina acém moído cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "328",
+    "name": "Carne bovina acém sem gordura cozido",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "329",
+    "name": "Carne bovina acém sem gordura cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "330",
+    "name": "Carne bovina almôndegas cruas",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "331",
+    "name": "Carne bovina almôndegas fritas",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "332",
+    "name": "Carne bovina bucho cozido",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "333",
+    "name": "Carne bovina bucho cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "334",
+    "name": "Carne bovina capa de contra-filé com gordura crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "335",
+    "name": "Carne bovina capa de contra-filé com gordura grelhada",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "336",
+    "name": "Carne bovina capa de contra-filé sem gordura crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "337",
+    "name": "Carne bovina capa de contra-filé sem gordura grelhada",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "338",
+    "name": "Carne bovina charque cozido",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "339",
+    "name": "Carne bovina charque cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "340",
+    "name": "Carne bovina contra-filé à milanesa",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "341",
+    "name": "Carne bovina contra-filé de costela cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "342",
+    "name": "Carne bovina contra-filé de costela grelhado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "343",
+    "name": "Carne bovina contra-filé com gordura cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "344",
+    "name": "Carne bovina contra-filé com gordura grelhado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "345",
+    "name": "Carne bovina contra-filé sem gordura cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "346",
+    "name": "Carne bovina contra-filé sem gordura grelhado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "347",
+    "name": "Carne bovina costela assada",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "348",
+    "name": "Carne bovina costela crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "349",
+    "name": "Carne bovina coxão duro sem gordura cozido",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "350",
+    "name": "Carne bovina coxão duro sem gordura cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "351",
+    "name": "Carne bovina coxão mole sem gordura cozido",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "352",
+    "name": "Carne bovina coxão mole sem gordura cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "353",
+    "name": "Carne bovina cupim assado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "354",
+    "name": "Carne bovina cupim cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "355",
+    "name": "Carne bovina fígado cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "356",
+    "name": "Carne bovina fígado grelhado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "357",
+    "name": "Carne bovina filé mingnon sem gordura cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "358",
+    "name": "Carne bovina filé mingnon sem gordura grelhado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "359",
+    "name": "Carne bovina flanco sem gordura cozido",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "360",
+    "name": "Carne bovina flanco sem gordura cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "361",
+    "name": "Carne bovina fraldinha com gordura cozida",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "362",
+    "name": "Carne bovina fraldinha com gordura crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "363",
+    "name": "Carne bovina lagarto cozido",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "364",
+    "name": "Carne bovina lagarto cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "365",
+    "name": "Carne bovina língua cozida",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "366",
+    "name": "Carne bovina língua crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "367",
+    "name": "Carne bovina maminha crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "368",
+    "name": "Carne bovina maminha grelhada",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "369",
+    "name": "Carne bovina miolo de alcatra sem gordura cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "370",
+    "name": "Carne bovina miolo de alcatra sem gordura grelhado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "371",
+    "name": "Carne bovina músculo sem gordura cozido",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "372",
+    "name": "Carne bovina músculo sem gordura cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "373",
+    "name": "Carne bovina paleta com gordura crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "374",
+    "name": "Carne bovina paleta sem gordura cozida",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "375",
+    "name": "Carne bovina paleta sem gordura crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "376",
+    "name": "Carne bovina patinho sem gordura cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "377",
+    "name": "Carne bovina patinho sem gordura grelhado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "378",
+    "name": "Carne bovina peito sem gordura cozido",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "379",
+    "name": "Carne bovina peito sem gordura cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "380",
+    "name": "Carne bovina picanha com gordura crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "381",
+    "name": "Carne bovina picanha com gordura grelhada",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "382",
+    "name": "Carne bovina picanha sem gordura crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "383",
+    "name": "Carne bovina picanha sem gordura grelhada",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "384",
+    "name": "Carne bovina seca cozida",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "385",
+    "name": "Carne bovina seca crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "386",
+    "name": "Coxinha de frango frita",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "387",
+    "name": "Croquete de carne cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "388",
+    "name": "Croquete de carne frito",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "389",
+    "name": "Empada de frango pré-cozida assada",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "390",
+    "name": "Empada de frango pré-cozida",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "391",
+    "name": "Frango asa com pele crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "392",
+    "name": "Frango caipira inteiro com pele cozido",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "393",
+    "name": "Frango caipira inteiro sem pele cozido",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "394",
+    "name": "Frango coração cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "395",
+    "name": "Frango coração grelhado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "396",
+    "name": "Frango coxa com pele assada",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "397",
+    "name": "Frango coxa com pele crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "398",
+    "name": "Frango coxa sem pele cozida",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "399",
+    "name": "Frango coxa sem pele crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "400",
+    "name": "Frango fígado cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "401",
+    "name": "Frango filé à milanesa",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "402",
+    "name": "Frango inteiro com pele cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "403",
+    "name": "Frango inteiro sem pele assado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "404",
+    "name": "Frango inteiro sem pele cozido",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "405",
+    "name": "Frango inteiro sem pele cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "406",
+    "name": "Frango peito com pele assado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "407",
+    "name": "Frango peito com pele cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "408",
+    "name": "Frango peito sem pele cozido",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "409",
+    "name": "Frango peito sem pele cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "410",
+    "name": "Frango peito sem pele grelhado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "411",
+    "name": "Frango sobrecoxa com pele assada",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "412",
+    "name": "Frango sobrecoxa com pele crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "413",
+    "name": "Frango sobrecoxa sem pele assada",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "414",
+    "name": "Frango sobrecoxa sem pele crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "415",
+    "name": "Hambúrguer bovino cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "416",
+    "name": "Hambúrguer bovino frito",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "417",
+    "name": "Hambúrguer bovino grelhado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "418",
+    "name": "Lingüiça frango crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "419",
+    "name": "Lingüiça frango frita",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "420",
+    "name": "Lingüiça frango grelhada",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "421",
+    "name": "Lingüiça porco crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "422",
+    "name": "Lingüiça porco frita",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "423",
+    "name": "Lingüiça porco grelhada",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "424",
+    "name": "Mortadela",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "425",
+    "name": "Peru congelado assado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "426",
+    "name": "Peru congelado cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "427",
+    "name": "Porco bisteca crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "428",
+    "name": "Porco bisteca frita",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "429",
+    "name": "Porco bisteca grelhada",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "430",
+    "name": "Porco costela assada",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "431",
+    "name": "Porco costela crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "432",
+    "name": "Porco lombo assado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "433",
+    "name": "Porco lombo cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "434",
+    "name": "Porco orelha salgada crua",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "435",
+    "name": "Porco pernil assado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "436",
+    "name": "Porco pernil cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "437",
+    "name": "Porco rabo salgado cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "438",
+    "name": "Presunto com capa de gordura",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "439",
+    "name": "Presunto sem capa de gordura",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "440",
+    "name": "Quibe assado",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "441",
+    "name": "Quibe cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "442",
+    "name": "Quibe frito",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "443",
+    "name": "Salame",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "444",
+    "name": "Toucinho cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "445",
+    "name": "Toucinho frito",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "446",
+    "name": "Bebida láctea pêssego",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "447",
+    "name": "Creme de Leite",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "448",
+    "name": "Iogurte natural",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "449",
+    "name": "Iogurte natural desnatado",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "450",
+    "name": "Iogurte sabor abacaxi",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "451",
+    "name": "Iogurte sabor morango",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "452",
+    "name": "Iogurte sabor pêssego",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "453",
+    "name": "Leite condensado",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "454",
+    "name": "Leite de cabra",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "455",
+    "name": "Leite de vaca achocolatado",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "456",
+    "name": "Leite de vaca desnatado pó",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "457",
+    "name": "Leite de vaca desnatado UHT",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "458",
+    "name": "Leite de vaca integral",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "459",
+    "name": "Leite de vaca integral pó",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "460",
+    "name": "Leite fermentado",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "461",
+    "name": "Queijo minas frescal",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "462",
+    "name": "Queijo minas meia cura",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "463",
+    "name": "Queijo mozarela",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "464",
+    "name": "Queijo parmesão",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "465",
+    "name": "Queijo pasteurizado",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "466",
+    "name": "Queijo petit suisse morango",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "467",
+    "name": "Queijo prato",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "468",
+    "name": "Maria mole",
+    "grupo": "AÇUCAR E DOCES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "469",
+    "name": "Queijo ricota",
+    "grupo": "LEITES E DERIVADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "470",
+    "name": "Bebida isotônica sabores variados",
+    "grupo": "BEBIDAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "471",
+    "name": "Café infusão 10%",
+    "grupo": "BEBIDAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "472",
+    "name": "Cana aguardente 1",
+    "grupo": "BEBIDAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "473",
+    "name": "Cana caldo de cana",
+    "grupo": "BEBIDAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "474",
+    "name": "Cerveja pilsen 2",
+    "grupo": "BEBIDAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "475",
+    "name": "Chá erva-doce infusão 5%",
+    "grupo": "BEBIDAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "476",
+    "name": "Chá mate infusão 5%",
+    "grupo": "BEBIDAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "477",
+    "name": "Chá preto infusão 5%",
+    "grupo": "BEBIDAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "478",
+    "name": "Coco água de",
+    "grupo": "BEBIDAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "479",
+    "name": "Refrigerante tipo água tônica",
+    "grupo": "BEBIDAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "480",
+    "name": "Refrigerante tipo cola",
+    "grupo": "BEBIDAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "481",
+    "name": "Refrigerante tipo guaraná",
+    "grupo": "BEBIDAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "482",
+    "name": "Refrigerante tipo laranja",
+    "grupo": "BEBIDAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "483",
+    "name": "Refrigerante tipo limão",
+    "grupo": "BEBIDAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "484",
+    "name": "Omelete de queijo",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "485",
+    "name": "Ovo de codorna inteiro cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "486",
+    "name": "Ovo de galinha clara cozida/10minutos",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "487",
+    "name": "Ovo de galinha gema cozida/10minutos",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "488",
+    "name": "Ovo de galinha inteiro cozido/10minutos",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "489",
+    "name": "Ovo de galinha inteiro cru",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "490",
+    "name": "Ovo de galinha inteiro frito",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "491",
+    "name": "Achocolatado pó",
+    "grupo": "AÇUCAR E DOCES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "492",
+    "name": "Açúcar cristal",
+    "grupo": "AÇUCAR E DOCES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "493",
+    "name": "Açúcar mascavo",
+    "grupo": "AÇUCAR E DOCES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "494",
+    "name": "Açúcar refinado",
+    "grupo": "AÇUCAR E DOCES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "495",
+    "name": "Chocolate ao leite",
+    "grupo": "AÇUCAR E DOCES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "496",
+    "name": "Chocolate ao leite com castanha do Pará",
+    "grupo": "AÇUCAR E DOCES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "497",
+    "name": "Chocolate ao leite dietético",
+    "grupo": "AÇUCAR E DOCES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "498",
+    "name": "Chocolate meio amargo",
+    "grupo": "AÇUCAR E DOCES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "499",
+    "name": "Cocada branca",
+    "grupo": "AÇUCAR E DOCES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "500",
+    "name": "Doce de abóbora cremoso",
+    "grupo": "AÇUCAR E DOCES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "501",
+    "name": "Doce de leite cremoso",
+    "grupo": "AÇUCAR E DOCES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "502",
+    "name": "Geléia mocotó natural",
+    "grupo": "AÇUCAR E DOCES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "503",
+    "name": "Glicose de milho",
+    "grupo": "AÇUCAR E DOCES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "504",
+    "name": "Maria mole",
+    "grupo": "AÇUCAR E DOCES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "505",
+    "name": "Maria mole coco queimado",
+    "grupo": "AÇUCAR E DOCES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "506",
+    "name": "Marmelada",
+    "grupo": "AÇUCAR E DOCES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "507",
+    "name": "Mel de abelha",
+    "grupo": "AÇUCAR E DOCES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "508",
+    "name": "Melado",
+    "grupo": "AÇUCAR E DOCES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "509",
+    "name": "Quindim",
+    "grupo": "AÇUCAR E DOCES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "510",
+    "name": "Rapadura",
+    "grupo": "AÇUCAR E DOCES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "511",
+    "name": "Café pó torrado",
+    "grupo": "BEBIDAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "512",
+    "name": "Capuccino pó",
+    "grupo": "BEBIDAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "513",
+    "name": "Fermento em pó químico",
+    "grupo": "MICELÂNEAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "514",
+    "name": "Fermento biológico levedura tablete",
+    "grupo": "MICELÂNEAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "515",
+    "name": "Gelatina sabores variados pó",
+    "grupo": "MICELÂNEAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "516",
+    "name": "Sal dietético",
+    "grupo": "MICELÂNEAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "517",
+    "name": "Sal grosso",
+    "grupo": "MICELÂNEAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "518",
+    "name": "Shoyu",
+    "grupo": "MICELÂNEAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "519",
+    "name": "Tempero a base de sal",
+    "grupo": "MICELÂNEAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "520",
+    "name": "Azeitona preta conserva",
+    "grupo": "COND",
+    "gramsPortion": 100
+  },
+  {
+    "code": "521",
+    "name": "Azeitona verde conserva",
+    "grupo": "COND",
+    "gramsPortion": 100
+  },
+  {
+    "code": "522",
+    "name": "Chantilly spray com gordura vegetal",
+    "grupo": "MICELÂNEAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "523",
+    "name": "Leite de coco",
+    "grupo": "COND",
+    "gramsPortion": 100
+  },
+  {
+    "code": "524",
+    "name": "Maionese tradicional com ovos",
+    "grupo": "MICELÂNEAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "525",
+    "name": "Acarajé",
+    "grupo": "COND",
+    "gramsPortion": 100
+  },
+  {
+    "code": "526",
+    "name": "Arroz carreteiro",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "527",
+    "name": "Baião de dois arroz e feijão-de-corda",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "528",
+    "name": "Barreado",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "529",
+    "name": "Bife à cavalo com contra filé",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "530",
+    "name": "Bolinho de arroz",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "531",
+    "name": "Camarão à baiana",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "532",
+    "name": "Charuto de repolho",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "533",
+    "name": "Cuscuz de milho cozido com sal",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "534",
+    "name": "Cuscuz paulista",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "535",
+    "name": "Cuxá molho",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "536",
+    "name": "Dobradinha",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "537",
+    "name": "Estrogonofe de carne",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "538",
+    "name": "Estrogonofe de frango",
+    "grupo": "protein ANIMAL",
+    "gramsPortion": 100
+  },
+  {
+    "code": "539",
+    "name": "Feijão tropeiro mineiro",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "540",
+    "name": "Feijoada",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "541",
+    "name": "Frango com açafrão",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "542",
+    "name": "Macarrão molho bolognesa",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "543",
+    "name": "Maniçoba",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "544",
+    "name": "Quibebe",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "545",
+    "name": "Salada de legumes com maionese",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "546",
+    "name": "Salada de legumes cozida no vapor",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "547",
+    "name": "Salpicão de frango",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "548",
+    "name": "Sarapatel",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "549",
+    "name": "Tabule",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "550",
+    "name": "Tacacá",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "551",
+    "name": "Tapioca com manteiga",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "552",
+    "name": "Tucupi com pimenta-de-cheiro",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "553",
+    "name": "Vaca atolada",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "554",
+    "name": "Vatapá",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "555",
+    "name": "Virado à paulista",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "556",
+    "name": "Yakisoba",
+    "grupo": "ALIMENTOS PREPARADOS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "557",
+    "name": "Amendoim grão cru",
+    "grupo": "LEGUN",
+    "gramsPortion": 100
+  },
+  {
+    "code": "558",
+    "name": "Amendoim torrado salgado",
+    "grupo": "LEGUN",
+    "gramsPortion": 100
+  },
+  {
+    "code": "559",
+    "name": "Ervilha em vagem",
+    "grupo": "LEGUN",
+    "gramsPortion": 100
+  },
+  {
+    "code": "560",
+    "name": "Ervilha enlatada drenada",
+    "grupo": "LEGUN",
+    "gramsPortion": 100
+  },
+  {
+    "code": "561",
+    "name": "Feijão carioca cozido",
+    "grupo": "LEGUN",
+    "gramsPortion": 100
+  },
+  {
+    "code": "562",
+    "name": "Feijão carioca cru",
+    "grupo": "LEGUN",
+    "gramsPortion": 100
+  },
+  {
+    "code": "563",
+    "name": "Feijão fradinho cozido",
+    "grupo": "LEGUM",
+    "gramsPortion": 100
+  },
+  {
+    "code": "564",
+    "name": "Feijão fradinho cru",
+    "grupo": "LEGUM",
+    "gramsPortion": 100
+  },
+  {
+    "code": "565",
+    "name": "Feijão jalo cozido",
+    "grupo": "LEGUM",
+    "gramsPortion": 100
+  },
+  {
+    "code": "566",
+    "name": "Feijão jalo cru",
+    "grupo": "LEGUM",
+    "gramsPortion": 100
+  },
+  {
+    "code": "567",
+    "name": "Feijão preto cozido",
+    "grupo": "LEGUM",
+    "gramsPortion": 100
+  },
+  {
+    "code": "568",
+    "name": "Feijão preto cru",
+    "grupo": "LEGUM",
+    "gramsPortion": 100
+  },
+  {
+    "code": "569",
+    "name": "Feijão rajado cozido",
+    "grupo": "LEGUM",
+    "gramsPortion": 100
+  },
+  {
+    "code": "570",
+    "name": "Feijão rajado cru",
+    "grupo": "LEGUM",
+    "gramsPortion": 100
+  },
+  {
+    "code": "571",
+    "name": "Feijão rosinha cozido",
+    "grupo": "LEGUM",
+    "gramsPortion": 100
+  },
+  {
+    "code": "572",
+    "name": "Feijão rosinha cru",
+    "grupo": "LEGUM",
+    "gramsPortion": 100
+  },
+  {
+    "code": "573",
+    "name": "Feijão roxo cozido",
+    "grupo": "LEGUM",
+    "gramsPortion": 100
+  },
+  {
+    "code": "574",
+    "name": "Feijão roxo cru",
+    "grupo": "LEGUM",
+    "gramsPortion": 100
+  },
+  {
+    "code": "575",
+    "name": "Grão-de-bico cru",
+    "grupo": "LEGUM",
+    "gramsPortion": 100
+  },
+  {
+    "code": "576",
+    "name": "Guandu cru",
+    "grupo": "LEGUM",
+    "gramsPortion": 100
+  },
+  {
+    "code": "577",
+    "name": "Lentilha cozida",
+    "grupo": "LEGUM",
+    "gramsPortion": 100
+  },
+  {
+    "code": "578",
+    "name": "Lentilha crua",
+    "grupo": "LEGUM",
+    "gramsPortion": 100
+  },
+  {
+    "code": "579",
+    "name": "Paçoca amendoim",
+    "grupo": "MICELÂNEAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "580",
+    "name": "Pé-de-moleque amendoim",
+    "grupo": "MICELÂNEAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "581",
+    "name": "Soja farinha",
+    "grupo": "MICELÂNEAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "582",
+    "name": "Soja extrato solúvel natural fluido",
+    "grupo": "MICELÂNEAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "583",
+    "name": "Soja extrato solúvel pó",
+    "grupo": "MICELÂNEAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "584",
+    "name": "Soja queijo (tofu)",
+    "grupo": "MICELÂNEAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "585",
+    "name": "Tremoço cru",
+    "grupo": "LEGUM",
+    "gramsPortion": 100
+  },
+  {
+    "code": "586",
+    "name": "Tremoço em conserva",
+    "grupo": "LEGUM",
+    "gramsPortion": 100
+  },
+  {
+    "code": "587",
+    "name": "Amêndoa torrada salgada",
+    "grupo": "SEMENTES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "588",
+    "name": "Castanha-de-caju torrada salgada",
+    "grupo": "SEMENTES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "589",
+    "name": "Castanha-do-Brasil crua",
+    "grupo": "SEMENTES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "590",
+    "name": "Coco cru",
+    "grupo": "SEMENTES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "591",
+    "name": "Coco verde cru",
+    "grupo": "SEMENTES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "592",
+    "name": "Farinha de mesocarpo de babaçu crua",
+    "grupo": "FARINHAS",
+    "gramsPortion": 100
+  },
+  {
+    "code": "593",
+    "name": "Gergelim semente",
+    "grupo": "SEMENTES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "594",
+    "name": "Linhaça semente",
+    "grupo": "SEMENTES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "595",
+    "name": "Pinhão cozido",
+    "grupo": "SEMENTES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "596",
+    "name": "Pupunha cozida",
+    "grupo": "SEMENTES",
+    "gramsPortion": 100
+  },
+  {
+    "code": "597",
+    "name": "Noz crua",
+    "grupo": "SEMENTES",
+    "gramsPortion": 100
+  },
+  {
+      "code": "598",
+      "name": "Milho para mungunzá",
+      "grupo": "CEREAIS",
+      "gramsPortion": 100
+  }
+]

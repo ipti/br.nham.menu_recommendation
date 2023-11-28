@@ -1,0 +1,14 @@
+FROM python:3.8-slim-buster
+
+WORKDIR /
+
+# COPY requirements.txt requirements.txt
+RUN pip3 install json-server.py
+
+COPY ./db.json /app/db.json
+
+WORKDIR /app
+
+CMD [ "json-server", "db.json" , "-b", ":3001"]
+
+EXPOSE 3001

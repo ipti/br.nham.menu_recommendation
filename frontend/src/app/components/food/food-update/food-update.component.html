@@ -1,0 +1,37 @@
+<!-- <h1 class="nav-title">Alimentos</h1> -->
+
+<mat-card class="card-new-food mat-elevation-z3">
+    <mat-card-title class="card-title">Alterar Alimento</mat-card-title>
+    
+    <form>
+        <mat-form-field>
+            <input matInput placeholder="Código" [(ngModel)]="food.code" name="code" required>
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput placeholder="Nome" [(ngModel)]="food.name" name="name" required>
+        </mat-form-field>
+        <mat-form-field>
+            <input type="number" matInput placeholder="Porção (g)" [(ngModel)]="food.gramsPortion" name="gramsPortion" disabled>
+        </mat-form-field>
+        <mat-form-field>
+            <input type="number" matInput placeholder="Proteína (g)" [(ngModel)]="food.protein" name="protein" required>
+        </mat-form-field>
+        <mat-form-field>
+            <input type="number" matInput placeholder="Carboidrato (g)" [(ngModel)]="food.carbo" name="carbo" required>
+        </mat-form-field>
+        <mat-form-field>
+            <input type="number" matInput placeholder="Gordura (g)" [(ngModel)]="food.lipid" name="lipid" required>
+        </mat-form-field>
+        <mat-form-field>
+            <input type="number" matInput placeholder="Caloria (kcal)" [(ngModel)]="food.calorie" name="calorie" required>
+        </mat-form-field>
+    </form>
+
+    <button mat-raised-button (click)="updateFood()" color="primary">
+        Atualizar
+    </button>
+    
+    <button mat-raised-button (click)="cancel()">
+        Cancelar
+    </button>
+</mat-card>

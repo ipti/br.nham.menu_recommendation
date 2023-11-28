@@ -1,0 +1,41 @@
+.div-container {
+    margin-top: 160px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.small-box {
+    display: block;
+    /* align-items: center; */
+    /* justify-content: center; */
+    margin: 0 20px 20px 20px;
+    padding: 15px;
+    border-radius: 8px;
+    height: 110px;
+    width: 13vw;
+    min-width: 210px;
+    color:rgb(73, 99, 170);
+    font-size: 14px;
+    text-align: center;
+    font-weight: 400;
+}
+
+#text-total {
+    margin-top: 29px;
+}
+
+.i-div {
+    align-items: center;
+    text-align: center;
+    font-size: 70px;
+    margin-bottom: 40px;
+    display: flex;
+}
+
+i {
+    margin-bottom: -20px;
+    margin-right: 0.5vw;
+    margin-left: 1.0vw;
+    /* margin-left: 20%; */
+    font-size: 75px;
+}

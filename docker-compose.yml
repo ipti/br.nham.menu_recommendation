@@ -1,0 +1,64 @@
+services:
+  api:
+    build:
+      context: ./recommendation_sys
+      dockerfile: Dockerfile
+    ports:
+      - 8080:8080
+    volumes:
+      - ./recommendation_sys:/app
+    networks:
+      - services-network
+  data:
+    build:
+      context: ./recommendation_sys
+      dockerfile: DataDockerfile
+    ports:
+      - 3001:3001
+    volumes:
+      - ./recommendation_sys:/app
+    networks:
+      - services-network
+
+  nginx:
+    build: ./nginx
+    ports:
+      - 80:80
+    depends_on:
+      - api
+    networks:
+      - services-network
+
+
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: root
+    volumes:
+      - mongodb_data:/data/db
+    ports:
+      - "27017:27017"
+  
+  mongo-express:
+    image: mongo-express:latest
+    container_name: mongo-express
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: admin
+      ME_CONFIG_MONGODB_ADMINPASSWORD: root
+      ME_CONFIG_MONGODB_SERVER: mongodb
+      ME_CONFIG_MONGODB_ENABLE_ADMIN: "true"
+      ME_CONFIG_BASICAUTH_USERNAME: admin
+      ME_CONFIG_BASICAUTH_PASSWORD: root
+
+    ports:
+      - "8081:8081"
+    depends_on:
+      - mongodb
+
+volumes:
+  mongodb_data:
+  
+networks:
+  services-network:

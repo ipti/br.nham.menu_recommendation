@@ -1,0 +1,370 @@
+{
+  "inventory": [
+    {
+      "id": 1,
+      "name": "Arroz tipo 1 cozido",
+      "foodCode": "3",
+      "amount": 10
+    },
+    {
+      "id": 2,
+      "name": "Arroz tipo 1 cru",
+      "foodCode": "4",
+      "amount": 10
+    },
+    {
+      "id": 3,
+      "name": "Aveia flocos crua",
+      "foodCode": "7",
+      "amount": 10
+    },
+    {
+      "id": 4,
+      "name": "Biscoito doce maisena",
+      "foodCode": "8",
+      "amount": 10
+    },
+    {
+      "id": 5,
+      "name": "Biscoito salgado cream cracker",
+      "foodCode": "13",
+      "amount": 10
+    },
+    {
+      "id": 6,
+      "name": "Bolo pronto aipim",
+      "foodCode": "15",
+      "amount": 10
+    },
+    {
+      "id": 7,
+      "name": "Bolo pronto milho",
+      "foodCode": "18",
+      "amount": 10
+    },
+    {
+      "id": 8,
+      "name": "Farinha de trigo",
+      "foodCode": "35",
+      "amount": 10
+    },
+    {
+      "id": 9,
+      "name": "Macarrão trigo cru",
+      "foodCode": "40",
+      "amount": 10
+    },
+    {
+      "id": 10,
+      "name": "Milho amido cru",
+      "foodCode": "42",
+      "amount": 10
+    },
+    {
+      "id": 11,
+      "name": "Milho fubá cru",
+      "foodCode": "43",
+      "amount": 10
+    },
+    {
+      "id": 12,
+      "name": "Pão aveia forma",
+      "foodCode": "48",
+      "amount": 10
+    },
+    {
+      "id": 13,
+      "name": "Pão de soja",
+      "foodCode": "49",
+      "amount": 10
+    },
+    {
+      "id": 14,
+      "name": "Pipoca com óleo de soja sem sal",
+      "foodCode": "61",
+      "amount": 10
+    },
+    {
+      "id": 15,
+      "name": "Abóbora pescoço crua",
+      "foodCode": "69",
+      "amount": 10
+    },
+    {
+      "id": 16,
+      "name": "Alface crespa crua",
+      "foodCode": "78",
+      "amount": 10
+    },
+    {
+      "id": 17,
+      "name": "Alho cru",
+      "foodCode": "82",
+      "amount": 10
+    },
+    {
+      "id": 18,
+      "name": "Batata doce crua",
+      "foodCode": "89",
+      "amount": 10
+    },
+    {
+      "id": 19,
+      "name": "Batata inglesa crua",
+      "foodCode": "92",
+      "amount": 10
+    },
+    {
+      "id": 20,
+      "name": "Beterraba crua",
+      "foodCode": "98",
+      "amount": 10
+    },
+    {
+      "id": 21,
+      "name": "Cebola crua",
+      "foodCode": "107",
+      "amount": 10
+    },
+    {
+      "id": 22,
+      "name": "Cebolinha crua",
+      "foodCode": "108",
+      "amount": 10
+    },
+    {
+      "id": 23,
+      "name": "Cenoura crua",
+      "foodCode": "110",
+      "amount": 10
+    },
+    {
+      "id": 24,
+      "name": "Chuchu cru",
+      "foodCode": "113",
+      "amount": 10
+    },
+    {
+      "id": 25,
+      "name": "Coentro folhas desidratadas",
+      "foodCode": "114",
+      "amount": 10
+    },
+    {
+      "id": 26,
+      "name": "Couve manteiga crua",
+      "foodCode": "115",
+      "amount": 10
+    },
+    {
+      "id": 27,
+      "name": "Farinha de mandioca torrada",
+      "foodCode": "122",
+      "amount": 10
+    },
+    {
+      "id": 28,
+      "name": "Inhame cru",
+      "foodCode": "126",
+      "amount": 10
+    },
+    {
+      "id": 29,
+      "name": "Mandioca crua",
+      "foodCode": "130",
+      "amount": 10
+    },
+    {
+      "id": 30,
+      "name": "Pimentão verde cru",
+      "foodCode": "144",
+      "amount": 10
+    },
+    {
+      "id": 31,
+      "name": "Quiabo cru",
+      "foodCode": "147",
+      "amount": 10
+    },
+    {
+      "id": 32,
+      "name": "Tomate com semente cru",
+      "foodCode": "157",
+      "amount": 10
+    },
+    {
+      "id": 33,
+      "name": "Tomate extrato",
+      "foodCode": "158",
+      "amount": 10
+    },
+    {
+      "id": 34,
+      "name": "Abacaxi cru",
+      "foodCode": "164",
+      "amount": 10
+    },
+    {
+      "id": 35,
+      "name": "Banana prata crua",
+      "foodCode": "182",
+      "amount": 10
+    },
+    {
+      "id": 36,
+      "name": "Laranja baía crua",
+      "foodCode": "208",
+      "amount": 10
+    },
+    {
+      "id": 37,
+      "name": "Mamão Formosa cru",
+      "foodCode": "225",
+      "amount": 10
+    },
+    {
+      "id": 38,
+      "name": "Melancia crua",
+      "foodCode": "235",
+      "amount": 10
+    },
+    {
+      "id": 39,
+      "name": "Tangerina Poncã crua",
+      "foodCode": "251",
+      "amount": 10
+    },
+    {
+      "id": 40,
+      "name": "Manteiga com sal",
+      "foodCode": "261",
+      "amount": 10
+    },
+    {
+      "id": 41,
+      "name": "Óleo de soja",
+      "foodCode": "272",
+      "amount": 10
+    },
+    {
+      "id": 42,
+      "name": "Sardinha conserva em óleo",
+      "foodCode": "319",
+      "amount": 10
+    },
+    {
+      "id": 43,
+      "name": "Carne bovina coxão mole sem gordura cru",
+      "foodCode": "352",
+      "amount": 10
+    },
+    {
+      "id": 44,
+      "name": "Carne bovina cupim assado",
+      "foodCode": "353",
+      "amount": 10
+    },
+    {
+      "id": 45,
+      "name": "Carne bovina fígado cru",
+      "foodCode": "355",
+      "amount": 10
+    },
+    {
+      "id": 46,
+      "name": "Carne bovina miolo de alcatra sem gordura grelhado",
+      "foodCode": "370",
+      "amount": 10
+    },
+    {
+      "id": 47,
+      "name": "Frango coxa com pele crua",
+      "foodCode": "397",
+      "amount": 10
+    },
+    {
+      "id": 48,
+      "name": "Frango filé à milanesa",
+      "foodCode": "401",
+      "amount": 10
+    },
+    {
+      "id": 49,
+      "name": "Frango peito sem pele cru",
+      "foodCode": "409",
+      "amount": 10
+    },
+    {
+      "id": 50,
+      "name": "Leite de vaca integral",
+      "foodCode": "458",
+      "amount": 10
+    },
+    {
+      "id": 51,
+      "name": "Leite de vaca integral pó",
+      "foodCode": "459",
+      "amount": 10
+    },
+    {
+      "id": 52,
+      "name": "Ovo de galinha inteiro cru",
+      "foodCode": "489",
+      "amount": 10
+    },
+    {
+      "id": 53,
+      "name": "Achocolatado pó",
+      "foodCode": "491",
+      "amount": 10
+    },
+    {
+      "id": 54,
+      "name": "Açúcar cristal",
+      "foodCode": "492",
+      "amount": 10
+    },
+    {
+      "id": 55,
+      "name": "Café pó torrado",
+      "foodCode": "511",
+      "amount": 10
+    },
+    {
+      "id": 56,
+      "name": "Leite de coco",
+      "foodCode": "523",
+      "amount": 10
+    },
+    {
+      "id": 57,
+      "name": "Cuscuz de milho cozido com sal",
+      "foodCode": "533",
+      "amount": 10
+    },
+    {
+      "id": 58,
+      "name": "Feijão carioca cru",
+      "foodCode": "562",
+      "amount": 10
+    },
+    {
+      "id": 59,
+      "name": "Pé-de-moleque amendoim",
+      "foodCode": "580",
+      "amount": 10
+    },
+    {
+      "id": 60,
+      "name": "Coco cru",
+      "foodCode": "590",
+      "amount": 10
+    },
+    {
+      "id": 61,
+      "name": "Milho para mungunzá",
+      "foodCode": "598",
+      "amount": 10
+    }
+  ]
+}

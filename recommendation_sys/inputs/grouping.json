@@ -1,0 +1,3700 @@
+{
+  "grouping": [
+    {
+      "id": 1,
+      "name": "CARBO1",
+      "items": [
+        {
+          "code": "1",
+          "name": "Arroz integral cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 10.68
+        },
+        {
+          "code": "2",
+          "name": "Arroz integral cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 58.06
+        },
+        {
+          "code": "3",
+          "name": "Arroz tipo 1 cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 153.41
+        },
+        {
+          "code": "4",
+          "name": "Arroz tipo 1 cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 47.27
+        },
+        {
+          "code": "5",
+          "name": "Arroz tipo 2 cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 151.53
+        },
+        {
+          "code": "6",
+          "name": "Arroz tipo 2 cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 62.8
+        },
+        {
+          "code": "7",
+          "name": "Aveia flocos crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 164.64
+        },
+        {
+          "code": "37",
+          "name": "Lasanha massa fresca cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 6.57
+        },
+        {
+          "code": "38",
+          "name": "Lasanha massa fresca crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 59.03
+        },
+        {
+          "code": "39",
+          "name": "Macarrão instantâneo",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 82.34
+        },
+        {
+          "code": "40",
+          "name": "Macarrão trigo cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 100.07
+        },
+        {
+          "code": "41",
+          "name": "Macarrão trigo cru com ovos",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 89.77
+        },
+        {
+          "code": "44",
+          "name": "Milho verde cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 12.69
+        },
+        {
+          "code": "45",
+          "name": "Milho verde enlatado drenado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 160.52
+        },
+        {
+          "code": "598",
+          "name": "Milho verde enlatado drenado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 50
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "PANIFICADOS",
+      "items": [
+        {
+          "code": "8",
+          "name": "Biscoito doce maisena",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 14.33
+        },
+        {
+          "code": "9",
+          "name": "Biscoito doce recheado com chocolate",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 35.05
+        },
+        {
+          "code": "10",
+          "name": "Biscoito doce recheado com morango",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 9.14
+        },
+        {
+          "code": "11",
+          "name": "Biscoito doce wafer recheado de chocolate",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 35.05
+        },
+        {
+          "code": "12",
+          "name": "Biscoito doce wafer recheado de morango",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 26.77
+        },
+        {
+          "code": "13",
+          "name": "Biscoito salgado cream cracker",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 7.16
+        },
+        {
+          "code": "14",
+          "name": "Bolo mistura para",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 31.07
+        },
+        {
+          "code": "15",
+          "name": "Bolo pronto aipim",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 50.18
+        },
+        {
+          "code": "16",
+          "name": "Bolo pronto chocolate",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 5.26
+        },
+        {
+          "code": "17",
+          "name": "Bolo pronto coco",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 15.32
+        },
+        {
+          "code": "18",
+          "name": "Bolo pronto milho",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 38.09
+        },
+        {
+          "code": "49",
+          "name": "Pão de soja",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 15.39
+        },
+        {
+          "code": "50",
+          "name": "Pão glúten forma",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 9.09
+        },
+        {
+          "code": "51",
+          "name": "Pão milho forma",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 56.82
+        },
+        {
+          "code": "52",
+          "name": "Pão trigo forma integral",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 26.17
+        },
+        {
+          "code": "53",
+          "name": "Pão trigo francês",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 49.75
+        },
+        {
+          "code": "54",
+          "name": "Pão trigo sovado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 18.05
+        },
+        {
+          "code": "55",
+          "name": "Pastel de carne cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 62.67
+        },
+        {
+          "code": "56",
+          "name": "Pastel de carne frito",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 14.17
+        },
+        {
+          "code": "57",
+          "name": "Pastel de queijo cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 60.7
+        },
+        {
+          "code": "58",
+          "name": "Pastel de queijo frito",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 43.13
+        },
+        {
+          "code": "59",
+          "name": "Pastel massa crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 27.24
+        },
+        {
+          "code": "60",
+          "name": "Pastel massa frita",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 42.82
+        },
+        {
+          "code": "61",
+          "name": "Pipoca com óleo de soja sem sal",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 19.97
+        },
+        {
+          "code": "62",
+          "name": "Polenta pré-cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 43.77
+        },
+        {
+          "code": "63",
+          "name": "Torrada pão francês",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 8.1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "CEREAIS",
+      "items": [
+        {
+          "code": "19",
+          "name": "Canjica branca crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 28.4
+        },
+        {
+          "code": "20",
+          "name": "Canjica com leite integral",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 20.13
+        },
+        {
+          "code": "21",
+          "name": "Cereais milho flocos com sal",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 62.39
+        },
+        {
+          "code": "22",
+          "name": "Cereais milho flocos sem sal",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 42.9
+        },
+        {
+          "code": "23",
+          "name": "Cereais mingau milho infantil",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 56.45
+        },
+        {
+          "code": "24",
+          "name": "Cereais mistura para vitamina trigo cevada e aveia",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 13.99
+        },
+        {
+          "code": "25",
+          "name": "Cereal matinal milho",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 50.87
+        },
+        {
+          "code": "26",
+          "name": "Cereal matinal milho açúcar",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 50.03
+        },
+        {
+          "code": "27",
+          "name": "Creme de arroz pó",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 34.58
+        },
+        {
+          "code": "28",
+          "name": "Creme de milho pó",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 13.83
+        },
+        {
+          "code": "29",
+          "name": "Curau milho verde",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 25.52
+        },
+        {
+          "code": "30",
+          "name": "Curau milho verde mistura para",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 51.84
+        },
+        {
+          "code": "47",
+          "name": "Pamonha barra para cozimento pré-cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 12.51
+        },
+        {
+          "code": "48",
+          "name": "Pão aveia forma",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 34.28
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "FARINHAS",
+      "items": [
+        {
+          "code": "31",
+          "name": "Farinha de arroz enriquecida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 33.12
+        },
+        {
+          "code": "32",
+          "name": "Farinha de centeio integral",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 33.57
+        },
+        {
+          "code": "33",
+          "name": "Farinha de milho amarela",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 65.26
+        },
+        {
+          "code": "34",
+          "name": "Farinha de rosca",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 43.67
+        },
+        {
+          "code": "35",
+          "name": "Farinha de trigo",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 58.27
+        },
+        {
+          "code": "36",
+          "name": "Farinha láctea de cereais",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 17.44
+        },
+        {
+          "code": "42",
+          "name": "Milho amido cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 5.84
+        },
+        {
+          "code": "43",
+          "name": "Milho fubá cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 42.93
+        },
+        {
+          "code": "46",
+          "name": "Mingau tradicional pó",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 24.3
+        },
+        {
+          "code": "99",
+          "name": "Biscoito polvilho doce",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 45.52
+        },
+        {
+          "code": "121",
+          "name": "Farinha de mandioca crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 65.0
+        },
+        {
+          "code": "122",
+          "name": "Farinha de mandioca torrada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 25.44
+        },
+        {
+          "code": "123",
+          "name": "Farinha de puba",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 34.16
+        },
+        {
+          "code": "124",
+          "name": "Fécula de mandioca",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 8.55
+        },
+        {
+          "code": "592",
+          "name": "Farinha de mesocarpo de babaçu crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 68.45
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "HORTALICAS",
+      "items": [
+        {
+          "code": "64",
+          "name": "Abóbora cabotian cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 27.69
+        },
+        {
+          "code": "65",
+          "name": "Abóbora cabotian crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 15.75
+        },
+        {
+          "code": "66",
+          "name": "Abóbora menina brasileira crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 24.95
+        },
+        {
+          "code": "67",
+          "name": "Abóbora moranga crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 54.5
+        },
+        {
+          "code": "68",
+          "name": "Abóbora moranga refogada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 11.52
+        },
+        {
+          "code": "69",
+          "name": "Abóbora pescoço crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 33.17
+        },
+        {
+          "code": "70",
+          "name": "Abobrinha italiana cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 68.27
+        },
+        {
+          "code": "71",
+          "name": "Abobrinha italiana crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 44.3
+        },
+        {
+          "code": "72",
+          "name": "Abobrinha italiana refogada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 50.75
+        },
+        {
+          "code": "73",
+          "name": "Abobrinha paulista crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 63.94
+        },
+        {
+          "code": "74",
+          "name": "Acelga crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 43.47
+        },
+        {
+          "code": "75",
+          "name": "Agrião cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 39.92
+        },
+        {
+          "code": "76",
+          "name": "Aipo cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 40.41
+        },
+        {
+          "code": "77",
+          "name": "Alface americana crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 5.94
+        },
+        {
+          "code": "78",
+          "name": "Alface crespa crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 61.5
+        },
+        {
+          "code": "79",
+          "name": "Alface lisa crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 18.9
+        },
+        {
+          "code": "80",
+          "name": "Alface roxa crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 40.07
+        },
+        {
+          "code": "81",
+          "name": "Alfavaca crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 29.5
+        },
+        {
+          "code": "82",
+          "name": "Alho cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 58.16
+        },
+        {
+          "code": "83",
+          "name": "Alho-poró cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 22.03
+        },
+        {
+          "code": "84",
+          "name": "Almeirão cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 18.6
+        },
+        {
+          "code": "85",
+          "name": "Almeirão refogado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 36.75
+        },
+        {
+          "code": "86",
+          "name": "Batata baroa cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 60.95
+        },
+        {
+          "code": "87",
+          "name": "Batata baroa crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 66.36
+        },
+        {
+          "code": "89",
+          "name": "Batata doce crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 48.12
+        },
+        {
+          "code": "90",
+          "name": "Batata frita tipo chips industrializada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 22.19
+        },
+        {
+          "code": "91",
+          "name": "Batata inglesa cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 54.5
+        },
+        {
+          "code": "92",
+          "name": "Batata inglesa crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 35.07
+        },
+        {
+          "code": "93",
+          "name": "Batata inglesa frita",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 34.96
+        },
+        {
+          "code": "94",
+          "name": "Batata inglesa sauté",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 51.09
+        },
+        {
+          "code": "95",
+          "name": "Berinjela cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 66.93
+        },
+        {
+          "code": "96",
+          "name": "Berinjela crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 7.44
+        },
+        {
+          "code": "97",
+          "name": "Beterraba cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 36.15
+        },
+        {
+          "code": "98",
+          "name": "Beterraba crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 20.4
+        },
+        {
+          "code": "100",
+          "name": "Brócolis cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 13.48
+        },
+        {
+          "code": "101",
+          "name": "Brócolis cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 51.38
+        },
+        {
+          "code": "102",
+          "name": "Cará cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 37.99
+        },
+        {
+          "code": "103",
+          "name": "Cará cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 29.96
+        },
+        {
+          "code": "104",
+          "name": "Caruru cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 20.09
+        },
+        {
+          "code": "105",
+          "name": "Catalonha crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 66.19
+        },
+        {
+          "code": "106",
+          "name": "Catalonha refogada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 39.9
+        },
+        {
+          "code": "107",
+          "name": "Cebola crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 17.22
+        },
+        {
+          "code": "108",
+          "name": "Cebolinha crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 44.09
+        },
+        {
+          "code": "109",
+          "name": "Cenoura cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 67.41
+        },
+        {
+          "code": "110",
+          "name": "Cenoura crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 11.46
+        },
+        {
+          "code": "111",
+          "name": "Chicória crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 65.64
+        },
+        {
+          "code": "112",
+          "name": "Chuchu cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 60.47
+        },
+        {
+          "code": "113",
+          "name": "Chuchu cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 58.76
+        },
+        {
+          "code": "114",
+          "name": "Coentro folhas desidratadas",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 56.48
+        },
+        {
+          "code": "115",
+          "name": "Couve manteiga crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 22.19
+        },
+        {
+          "code": "116",
+          "name": "Couve manteiga refogada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 63.98
+        },
+        {
+          "code": "117",
+          "name": "Couve-flor crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 35.36
+        },
+        {
+          "code": "118",
+          "name": "Couve-flor cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 65.57
+        },
+        {
+          "code": "119",
+          "name": "Espinafre Nova Zelândia cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 15.01
+        },
+        {
+          "code": "120",
+          "name": "Espinafre Nova Zelândia refogado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 6.67
+        },
+        {
+          "code": "127",
+          "name": "Jiló cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 62.96
+        },
+        {
+          "code": "128",
+          "name": "Jurubeba crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 32.45
+        },
+        {
+          "code": "133",
+          "name": "Manjericão cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 48.43
+        },
+        {
+          "code": "134",
+          "name": "Maxixe cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 58.57
+        },
+        {
+          "code": "135",
+          "name": "Mostarda folha crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 65.05
+        },
+        {
+          "code": "136",
+          "name": "Nhoque batata cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 64.96
+        },
+        {
+          "code": "137",
+          "name": "Nabo cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 29.47
+        },
+        {
+          "code": "138",
+          "name": "Palmito Juçara em conserva",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 67.88
+        },
+        {
+          "code": "139",
+          "name": "Palmito pupunha em conserva",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 60.0
+        },
+        {
+          "code": "140",
+          "name": "Pão de queijo assado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 49.83
+        },
+        {
+          "code": "141",
+          "name": "Pão de queijo cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 27.54
+        },
+        {
+          "code": "142",
+          "name": "Pepino cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 67.47
+        },
+        {
+          "code": "143",
+          "name": "Pimentão amarelo cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 32.62
+        },
+        {
+          "code": "144",
+          "name": "Pimentão verde cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 13.22
+        },
+        {
+          "code": "145",
+          "name": "Pimentão vermelho cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 46.96
+        },
+        {
+          "code": "146",
+          "name": "Polvilho doce",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 45.69
+        },
+        {
+          "code": "147",
+          "name": "Quiabo cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 12.84
+        },
+        {
+          "code": "148",
+          "name": "Rabanete cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 65.42
+        },
+        {
+          "code": "149",
+          "name": "Repolho branco cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 60.15
+        },
+        {
+          "code": "150",
+          "name": "Repolho roxo cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 33.32
+        },
+        {
+          "code": "151",
+          "name": "Repolho roxo refogado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 6.19
+        },
+        {
+          "code": "152",
+          "name": "Rúcula crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 57.69
+        },
+        {
+          "code": "153",
+          "name": "Salsa crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 55.45
+        },
+        {
+          "code": "154",
+          "name": "Seleta de legumes enlatada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 42.95
+        },
+        {
+          "code": "155",
+          "name": "Serralha crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 18.98
+        },
+        {
+          "code": "156",
+          "name": "Taioba crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 28.88
+        },
+        {
+          "code": "157",
+          "name": "Tomate com semente cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 41.98
+        },
+        {
+          "code": "158",
+          "name": "Tomate extrato",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 40.38
+        },
+        {
+          "code": "159",
+          "name": "Tomate molho industrializado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 51.89
+        },
+        {
+          "code": "160",
+          "name": "Tomate purê",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 19.07
+        },
+        {
+          "code": "161",
+          "name": "Tomate salada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 5.84
+        },
+        {
+          "code": "162",
+          "name": "Vagem crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 42.98
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "CARBO2",
+      "items": [
+        {
+          "code": "88",
+          "name": "Batata doce cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 152.36
+        },
+        {
+          "code": "126",
+          "name": "Inhame cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 91.16
+        },
+        {
+          "code": "129",
+          "name": "Mandioca cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 34.46
+        },
+        {
+          "code": "130",
+          "name": "Mandioca crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 174.42
+        },
+        {
+          "code": "131",
+          "name": "Mandioca farofa temperada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 103.4
+        },
+        {
+          "code": "132",
+          "name": "Mandioca frita",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 103.71
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "LEGUM",
+      "items": [
+        {
+          "code": "125",
+          "name": "Feijão broto cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 42.65
+        },
+        {
+          "code": "563",
+          "name": "Feijão fradinho cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 47.73
+        },
+        {
+          "code": "564",
+          "name": "Feijão fradinho cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 9.47
+        },
+        {
+          "code": "565",
+          "name": "Feijão jalo cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 32.47
+        },
+        {
+          "code": "566",
+          "name": "Feijão jalo cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 29.35
+        },
+        {
+          "code": "567",
+          "name": "Feijão preto cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 30.0
+        },
+        {
+          "code": "568",
+          "name": "Feijão preto cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 36.07
+        },
+        {
+          "code": "569",
+          "name": "Feijão rajado cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 14.69
+        },
+        {
+          "code": "570",
+          "name": "Feijão rajado cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 39.45
+        },
+        {
+          "code": "571",
+          "name": "Feijão rosinha cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 44.75
+        },
+        {
+          "code": "572",
+          "name": "Feijão rosinha cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 24.07
+        },
+        {
+          "code": "573",
+          "name": "Feijão roxo cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 56.52
+        },
+        {
+          "code": "574",
+          "name": "Feijão roxo cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 61.98
+        },
+        {
+          "code": "575",
+          "name": "Grão-de-bico cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 45.33
+        },
+        {
+          "code": "576",
+          "name": "Guandu cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 40.6
+        },
+        {
+          "code": "577",
+          "name": "Lentilha cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 29.59
+        },
+        {
+          "code": "578",
+          "name": "Lentilha crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 22.37
+        },
+        {
+          "code": "585",
+          "name": "Tremoço cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 39.21
+        },
+        {
+          "code": "586",
+          "name": "Tremoço em conserva",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 18.34
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "FRUTAS",
+      "items": [
+        {
+          "code": "163",
+          "name": "Abacate cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 146.54
+        },
+        {
+          "code": "164",
+          "name": "Abacaxi cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 173.02
+        },
+        {
+          "code": "165",
+          "name": "Abacaxi polpa congelada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 166.49
+        },
+        {
+          "code": "166",
+          "name": "Abiu cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 31.75
+        },
+        {
+          "code": "167",
+          "name": "Açaí polpa com xarope de guaraná e glucose",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 189.97
+        },
+        {
+          "code": "168",
+          "name": "Açaí polpa congelada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 31.37
+        },
+        {
+          "code": "169",
+          "name": "Acerola crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 131.86
+        },
+        {
+          "code": "170",
+          "name": "Acerola polpa congelada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 87.24
+        },
+        {
+          "code": "171",
+          "name": "Ameixa calda enlatada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 155.16
+        },
+        {
+          "code": "172",
+          "name": "Ameixa crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 34.67
+        },
+        {
+          "code": "173",
+          "name": "Ameixa em calda enlatada drenada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 133.82
+        },
+        {
+          "code": "174",
+          "name": "Atemóia crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 109.8
+        },
+        {
+          "code": "175",
+          "name": "Banana da terra crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 113.83
+        },
+        {
+          "code": "176",
+          "name": "Banana doce em barra",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 76.08
+        },
+        {
+          "code": "177",
+          "name": "Banana figo crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 115.23
+        },
+        {
+          "code": "178",
+          "name": "Banana maçã crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 28.79
+        },
+        {
+          "code": "179",
+          "name": "Banana nanica crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 49.55
+        },
+        {
+          "code": "180",
+          "name": "Banana ouro crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 18.28
+        },
+        {
+          "code": "181",
+          "name": "Banana pacova crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 48.85
+        },
+        {
+          "code": "182",
+          "name": "Banana prata crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 108.77
+        },
+        {
+          "code": "183",
+          "name": "Cacau cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 32.32
+        },
+        {
+          "code": "184",
+          "name": "Cajá-Manga cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 107.57
+        },
+        {
+          "code": "185",
+          "name": "Cajá polpa congelada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 140.28
+        },
+        {
+          "code": "186",
+          "name": "Caju cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 82.01
+        },
+        {
+          "code": "187",
+          "name": "Caju polpa congelada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 40.98
+        },
+        {
+          "code": "189",
+          "name": "Caqui chocolate cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 188.09
+        },
+        {
+          "code": "190",
+          "name": "Carambola crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 17.7
+        },
+        {
+          "code": "191",
+          "name": "Ciriguela crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 54.51
+        },
+        {
+          "code": "192",
+          "name": "Cupuaçu cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 32.28
+        },
+        {
+          "code": "193",
+          "name": "Cupuaçu polpa congelada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 162.44
+        },
+        {
+          "code": "194",
+          "name": "Figo cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 144.27
+        },
+        {
+          "code": "195",
+          "name": "Figo enlatado em calda",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 169.67
+        },
+        {
+          "code": "196",
+          "name": "Fruta-pão crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 109.28
+        },
+        {
+          "code": "197",
+          "name": "Goiaba branca com casca crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 117.24
+        },
+        {
+          "code": "198",
+          "name": "Goiaba doce em pasta",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 68.9
+        },
+        {
+          "code": "199",
+          "name": "Goiaba doce cascão",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 112.66
+        },
+        {
+          "code": "200",
+          "name": "Goiaba vermelha com casca crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 141.7
+        },
+        {
+          "code": "201",
+          "name": "Graviola crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 190.46
+        },
+        {
+          "code": "202",
+          "name": "Graviola polpa congelada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 156.88
+        },
+        {
+          "code": "203",
+          "name": "Jabuticaba crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 90.91
+        },
+        {
+          "code": "204",
+          "name": "Jaca crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 73.13
+        },
+        {
+          "code": "205",
+          "name": "Jambo cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 91.58
+        },
+        {
+          "code": "206",
+          "name": "Jamelão cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 49.2
+        },
+        {
+          "code": "207",
+          "name": "Kiwi cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 111.64
+        },
+        {
+          "code": "208",
+          "name": "Laranja baía crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 101.15
+        },
+        {
+          "code": "209",
+          "name": "Laranja baía suco",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 9.49
+        },
+        {
+          "code": "210",
+          "name": "Laranja da terra crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 140.82
+        },
+        {
+          "code": "211",
+          "name": "Laranja da terra suco",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 154.93
+        },
+        {
+          "code": "212",
+          "name": "Laranja lima crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 129.01
+        },
+        {
+          "code": "213",
+          "name": "Laranja lima suco",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 80.11
+        },
+        {
+          "code": "214",
+          "name": "Laranja pêra crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 28.76
+        },
+        {
+          "code": "215",
+          "name": "Laranja pêra suco",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 177.43
+        },
+        {
+          "code": "216",
+          "name": "Laranja valência crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 19.26
+        },
+        {
+          "code": "217",
+          "name": "Laranja valência suco",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 97.85
+        },
+        {
+          "code": "218",
+          "name": "Limão cravo suco",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 77.86
+        },
+        {
+          "code": "219",
+          "name": "Limão galego suco",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 143.95
+        },
+        {
+          "code": "220",
+          "name": "Limão tahiti cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 15.2
+        },
+        {
+          "code": "221",
+          "name": "Maçã Argentina com casca crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 19.8
+        },
+        {
+          "code": "222",
+          "name": "Maçã Fuji com casca crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 30.91
+        },
+        {
+          "code": "223",
+          "name": "Macaúba crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 53.82
+        },
+        {
+          "code": "224",
+          "name": "Mamão doce em calda drenado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 169.88
+        },
+        {
+          "code": "225",
+          "name": "Mamão Formosa cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 99.38
+        },
+        {
+          "code": "226",
+          "name": "Mamão Papaia cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 172.13
+        },
+        {
+          "code": "227",
+          "name": "Mamão verde doce em calda drenado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 33.3
+        },
+        {
+          "code": "228",
+          "name": "Manga Haden crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 101.38
+        },
+        {
+          "code": "229",
+          "name": "Manga Palmer crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 128.67
+        },
+        {
+          "code": "230",
+          "name": "Manga polpa congelada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 18.19
+        },
+        {
+          "code": "231",
+          "name": "Manga Tommy Atkins crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 101.67
+        },
+        {
+          "code": "232",
+          "name": "Maracujá cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 166.21
+        },
+        {
+          "code": "233",
+          "name": "Maracujá polpa congelada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 122.38
+        },
+        {
+          "code": "234",
+          "name": "Maracujá suco concentrado envasado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 136.53
+        },
+        {
+          "code": "235",
+          "name": "Melancia crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 114.71
+        },
+        {
+          "code": "236",
+          "name": "Melão cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 105.78
+        },
+        {
+          "code": "237",
+          "name": "Mexerica Murcote crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 173.67
+        },
+        {
+          "code": "238",
+          "name": "Mexerica Rio crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 131.49
+        },
+        {
+          "code": "239",
+          "name": "Morango cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 41.42
+        },
+        {
+          "code": "240",
+          "name": "Nêspera crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 106.35
+        },
+        {
+          "code": "241",
+          "name": "Pequi cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 31.67
+        },
+        {
+          "code": "242",
+          "name": "Pêra Park crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 162.55
+        },
+        {
+          "code": "243",
+          "name": "Pêra Williams crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 11.54
+        },
+        {
+          "code": "244",
+          "name": "Pêssego Aurora cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 139.49
+        },
+        {
+          "code": "245",
+          "name": "Pêssego enlatado em calda",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 162.22
+        },
+        {
+          "code": "246",
+          "name": "Pinha crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 16.29
+        },
+        {
+          "code": "247",
+          "name": "Pitanga crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 178.6
+        },
+        {
+          "code": "248",
+          "name": "Pitanga polpa congelada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 119.73
+        },
+        {
+          "code": "249",
+          "name": "Romã crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 9.34
+        },
+        {
+          "code": "250",
+          "name": "Tamarindo cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 35.75
+        },
+        {
+          "code": "251",
+          "name": "Tangerina Poncã crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 23.78
+        },
+        {
+          "code": "252",
+          "name": "Tangerina Poncã suco",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 88.66
+        },
+        {
+          "code": "253",
+          "name": "Tucumã cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 73.48
+        },
+        {
+          "code": "254",
+          "name": "Umbu cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 107.17
+        },
+        {
+          "code": "255",
+          "name": "Umbu polpa congelada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 162.8
+        },
+        {
+          "code": "256",
+          "name": "Uva Itália crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 146.55
+        },
+        {
+          "code": "257",
+          "name": "Uva Rubi crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 62.86
+        },
+        {
+          "code": "258",
+          "name": "Uva suco concentrado envasado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 181.15
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "BEBIDAS",
+      "items": [
+        {
+          "code": "188",
+          "name": "Caju suco concentrado envasado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 60.72
+        },
+        {
+          "code": "470",
+          "name": "Bebida isotônica sabores variados",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 146.54
+        },
+        {
+          "code": "471",
+          "name": "Café infusão 10%",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 20.99
+        },
+        {
+          "code": "472",
+          "name": "Cana aguardente 1",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 149.44
+        },
+        {
+          "code": "473",
+          "name": "Cana caldo de cana",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 13.41
+        },
+        {
+          "code": "474",
+          "name": "Cerveja pilsen 2",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 33.59
+        },
+        {
+          "code": "475",
+          "name": "Chá erva-doce infusão 5%",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 190.06
+        },
+        {
+          "code": "476",
+          "name": "Chá mate infusão 5%",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 70.2
+        },
+        {
+          "code": "477",
+          "name": "Chá preto infusão 5%",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 95.18
+        },
+        {
+          "code": "478",
+          "name": "Coco água de",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 140.97
+        },
+        {
+          "code": "479",
+          "name": "Refrigerante tipo água tônica",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 132.45
+        },
+        {
+          "code": "480",
+          "name": "Refrigerante tipo cola",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 125.53
+        },
+        {
+          "code": "481",
+          "name": "Refrigerante tipo guaraná",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 58.49
+        },
+        {
+          "code": "482",
+          "name": "Refrigerante tipo laranja",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 19.27
+        },
+        {
+          "code": "483",
+          "name": "Refrigerante tipo limão",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 108.89
+        },
+        {
+          "code": "511",
+          "name": "Café pó torrado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 68.42
+        },
+        {
+          "code": "512",
+          "name": "Capuccino pó",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 116.03
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "OLEOS",
+      "items": [
+        {
+          "code": "259",
+          "name": "Azeite de dendê",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 21.03
+        },
+        {
+          "code": "260",
+          "name": "Azeite de oliva extra virgem",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 34.74
+        },
+        {
+          "code": "261",
+          "name": "Manteiga com sal",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 44.82
+        },
+        {
+          "code": "262",
+          "name": "Manteiga sem sal",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 61.65
+        },
+        {
+          "code": "263",
+          "name": "Margarina com óleo hidrogenado com sal (65% de lipídeos)",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 34.61
+        },
+        {
+          "code": "264",
+          "name": "Margarina com óleo hidrogenado sem sal (80% de lipídeos)",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 6.18
+        },
+        {
+          "code": "265",
+          "name": "Margarina com óleo interesterificado com sal (65%de lipídeos)",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 37.79
+        },
+        {
+          "code": "266",
+          "name": "Margarina com óleo interesterificado sem sal (65% de lipídeos)",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 18.74
+        },
+        {
+          "code": "267",
+          "name": "Óleo de babaçu",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 20.61
+        },
+        {
+          "code": "268",
+          "name": "Óleo de canola",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 47.1
+        },
+        {
+          "code": "269",
+          "name": "Óleo de girassol",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 67.95
+        },
+        {
+          "code": "270",
+          "name": "Óleo de milho",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 55.43
+        },
+        {
+          "code": "271",
+          "name": "Óleo de pequi",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 59.97
+        },
+        {
+          "code": "272",
+          "name": "Óleo de soja",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 69.35
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "protein ANIMAL",
+      "items": [
+        {
+          "code": "273",
+          "name": "Abadejo filé congelado assado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 46.23
+        },
+        {
+          "code": "274",
+          "name": "Abadejo filé congelado,cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 21.59
+        },
+        {
+          "code": "275",
+          "name": "Abadejo filé congelado cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 12.22
+        },
+        {
+          "code": "276",
+          "name": "Abadejo filé congelado grelhado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 43.2
+        },
+        {
+          "code": "277",
+          "name": "Atum conserva em óleo",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 36.76
+        },
+        {
+          "code": "278",
+          "name": "Atum fresco cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 64.73
+        },
+        {
+          "code": "279",
+          "name": "Bacalhau salgado cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 6.62
+        },
+        {
+          "code": "280",
+          "name": "Bacalhau salgado refogado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 67.93
+        },
+        {
+          "code": "281",
+          "name": "Cação posta com farinha de trigo frita",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 52.36
+        },
+        {
+          "code": "282",
+          "name": "Cação posta cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 43.8
+        },
+        {
+          "code": "283",
+          "name": "Cação posta crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 23.61
+        },
+        {
+          "code": "284",
+          "name": "Camarão Rio Grande grande cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 26.56
+        },
+        {
+          "code": "285",
+          "name": "Camarão Rio Grande grande cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 36.04
+        },
+        {
+          "code": "286",
+          "name": "Camarão Sete Barbas sem cabeça com casca frito",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 19.76
+        },
+        {
+          "code": "287",
+          "name": "Caranguejo cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 18.48
+        },
+        {
+          "code": "288",
+          "name": "Corimba cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 11.19
+        },
+        {
+          "code": "289",
+          "name": "Corimbatá assado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 68.07
+        },
+        {
+          "code": "290",
+          "name": "Corimbatá cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 66.16
+        },
+        {
+          "code": "291",
+          "name": "Corvina de água doce crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 42.85
+        },
+        {
+          "code": "292",
+          "name": "Corvina do mar crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 44.98
+        },
+        {
+          "code": "293",
+          "name": "Corvina grande assada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 48.61
+        },
+        {
+          "code": "294",
+          "name": "Corvina grande cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 29.9
+        },
+        {
+          "code": "295",
+          "name": "Dourada de água doce fresca",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 26.98
+        },
+        {
+          "code": "296",
+          "name": "Lambari congelado cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 7.74
+        },
+        {
+          "code": "297",
+          "name": "Lambari congelado frito",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 34.17
+        },
+        {
+          "code": "298",
+          "name": "Lambari fresco,cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 16.04
+        },
+        {
+          "code": "299",
+          "name": "Manjuba com farinha de trigo frita",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 60.69
+        },
+        {
+          "code": "300",
+          "name": "Manjuba frita",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 15.72
+        },
+        {
+          "code": "301",
+          "name": "Merluza filé assado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 50.34
+        },
+        {
+          "code": "302",
+          "name": "Merluza filé cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 5.75
+        },
+        {
+          "code": "303",
+          "name": "Merluza filé frito",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 37.83
+        },
+        {
+          "code": "304",
+          "name": "Pescada branca crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 34.24
+        },
+        {
+          "code": "305",
+          "name": "Pescada branca frita",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 65.04
+        },
+        {
+          "code": "306",
+          "name": "Pescada filé com farinha de trigo frito",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 13.43
+        },
+        {
+          "code": "307",
+          "name": "Pescada filé cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 13.52
+        },
+        {
+          "code": "308",
+          "name": "Pescada filé frito",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 53.0
+        },
+        {
+          "code": "309",
+          "name": "Pescada filé molho escabeche",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 24.2
+        },
+        {
+          "code": "310",
+          "name": "Pescadinha crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 5.43
+        },
+        {
+          "code": "311",
+          "name": "Pintado assado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 10.08
+        },
+        {
+          "code": "312",
+          "name": "Pintado cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 58.01
+        },
+        {
+          "code": "313",
+          "name": "Pintado grelhado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 22.64
+        },
+        {
+          "code": "314",
+          "name": "Porquinho cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 17.88
+        },
+        {
+          "code": "315",
+          "name": "Salmão filé com pele fresco  grelhado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 42.63
+        },
+        {
+          "code": "316",
+          "name": "Salmão sem pele fresco cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 52.28
+        },
+        {
+          "code": "317",
+          "name": "Salmão sem pele fresco grelhado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 47.52
+        },
+        {
+          "code": "318",
+          "name": "Sardinha assada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 7.26
+        },
+        {
+          "code": "319",
+          "name": "Sardinha conserva em óleo",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 13.03
+        },
+        {
+          "code": "320",
+          "name": "Sardinha frita",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 9.62
+        },
+        {
+          "code": "321",
+          "name": "Sardinha inteira crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 59.61
+        },
+        {
+          "code": "322",
+          "name": "Tucunaré filé congelado cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 34.76
+        },
+        {
+          "code": "323",
+          "name": "Apresuntado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 10.44
+        },
+        {
+          "code": "324",
+          "name": "Caldo de carne tablete",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 51.05
+        },
+        {
+          "code": "325",
+          "name": "Caldo de galinha tablete",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 9.8
+        },
+        {
+          "code": "326",
+          "name": "Carne bovina acém moído cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 36.97
+        },
+        {
+          "code": "327",
+          "name": "Carne bovina acém moído cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 52.92
+        },
+        {
+          "code": "328",
+          "name": "Carne bovina acém sem gordura cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 57.45
+        },
+        {
+          "code": "329",
+          "name": "Carne bovina acém sem gordura cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 43.18
+        },
+        {
+          "code": "330",
+          "name": "Carne bovina almôndegas cruas",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 40.7
+        },
+        {
+          "code": "331",
+          "name": "Carne bovina almôndegas fritas",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 46.85
+        },
+        {
+          "code": "332",
+          "name": "Carne bovina bucho cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 46.36
+        },
+        {
+          "code": "333",
+          "name": "Carne bovina bucho cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 69.1
+        },
+        {
+          "code": "334",
+          "name": "Carne bovina capa de contra-filé com gordura crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 48.29
+        },
+        {
+          "code": "335",
+          "name": "Carne bovina capa de contra-filé com gordura grelhada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 67.96
+        },
+        {
+          "code": "336",
+          "name": "Carne bovina capa de contra-filé sem gordura crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 54.97
+        },
+        {
+          "code": "337",
+          "name": "Carne bovina capa de contra-filé sem gordura grelhada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 26.13
+        },
+        {
+          "code": "338",
+          "name": "Carne bovina charque cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 67.95
+        },
+        {
+          "code": "339",
+          "name": "Carne bovina charque cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 45.16
+        },
+        {
+          "code": "340",
+          "name": "Carne bovina contra-filé à milanesa",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 31.19
+        },
+        {
+          "code": "341",
+          "name": "Carne bovina contra-filé de costela cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 58.52
+        },
+        {
+          "code": "342",
+          "name": "Carne bovina contra-filé de costela grelhado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 34.71
+        },
+        {
+          "code": "343",
+          "name": "Carne bovina contra-filé com gordura cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 21.99
+        },
+        {
+          "code": "344",
+          "name": "Carne bovina contra-filé com gordura grelhado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 54.6
+        },
+        {
+          "code": "345",
+          "name": "Carne bovina contra-filé sem gordura cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 7.45
+        },
+        {
+          "code": "346",
+          "name": "Carne bovina contra-filé sem gordura grelhado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 22.94
+        },
+        {
+          "code": "347",
+          "name": "Carne bovina costela assada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 57.13
+        },
+        {
+          "code": "348",
+          "name": "Carne bovina costela crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 25.79
+        },
+        {
+          "code": "349",
+          "name": "Carne bovina coxão duro sem gordura cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 19.97
+        },
+        {
+          "code": "350",
+          "name": "Carne bovina coxão duro sem gordura cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 36.96
+        },
+        {
+          "code": "351",
+          "name": "Carne bovina coxão mole sem gordura cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 50.58
+        },
+        {
+          "code": "352",
+          "name": "Carne bovina coxão mole sem gordura cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 11.72
+        },
+        {
+          "code": "353",
+          "name": "Carne bovina cupim assado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 17.29
+        },
+        {
+          "code": "354",
+          "name": "Carne bovina cupim cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 46.4
+        },
+        {
+          "code": "355",
+          "name": "Carne bovina fígado cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 44.43
+        },
+        {
+          "code": "356",
+          "name": "Carne bovina fígado grelhado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 39.42
+        },
+        {
+          "code": "357",
+          "name": "Carne bovina filé mingnon sem gordura cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 5.63
+        },
+        {
+          "code": "358",
+          "name": "Carne bovina filé mingnon sem gordura grelhado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 44.59
+        },
+        {
+          "code": "359",
+          "name": "Carne bovina flanco sem gordura cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 37.82
+        },
+        {
+          "code": "360",
+          "name": "Carne bovina flanco sem gordura cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 19.73
+        },
+        {
+          "code": "361",
+          "name": "Carne bovina fraldinha com gordura cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 46.79
+        },
+        {
+          "code": "362",
+          "name": "Carne bovina fraldinha com gordura crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 15.92
+        },
+        {
+          "code": "363",
+          "name": "Carne bovina lagarto cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 56.54
+        },
+        {
+          "code": "364",
+          "name": "Carne bovina lagarto cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 7.79
+        },
+        {
+          "code": "365",
+          "name": "Carne bovina língua cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 58.93
+        },
+        {
+          "code": "366",
+          "name": "Carne bovina língua crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 53.71
+        },
+        {
+          "code": "367",
+          "name": "Carne bovina maminha crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 51.81
+        },
+        {
+          "code": "368",
+          "name": "Carne bovina maminha grelhada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 20.5
+        },
+        {
+          "code": "369",
+          "name": "Carne bovina miolo de alcatra sem gordura cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 56.22
+        },
+        {
+          "code": "370",
+          "name": "Carne bovina miolo de alcatra sem gordura grelhado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 37.18
+        },
+        {
+          "code": "371",
+          "name": "Carne bovina músculo sem gordura cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 65.76
+        },
+        {
+          "code": "372",
+          "name": "Carne bovina músculo sem gordura cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 8.99
+        },
+        {
+          "code": "373",
+          "name": "Carne bovina paleta com gordura crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 62.82
+        },
+        {
+          "code": "374",
+          "name": "Carne bovina paleta sem gordura cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 41.39
+        },
+        {
+          "code": "375",
+          "name": "Carne bovina paleta sem gordura crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 12.3
+        },
+        {
+          "code": "376",
+          "name": "Carne bovina patinho sem gordura cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 17.88
+        },
+        {
+          "code": "377",
+          "name": "Carne bovina patinho sem gordura grelhado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 58.68
+        },
+        {
+          "code": "378",
+          "name": "Carne bovina peito sem gordura cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 26.55
+        },
+        {
+          "code": "379",
+          "name": "Carne bovina peito sem gordura cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 11.1
+        },
+        {
+          "code": "380",
+          "name": "Carne bovina picanha com gordura crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 51.15
+        },
+        {
+          "code": "381",
+          "name": "Carne bovina picanha com gordura grelhada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 43.59
+        },
+        {
+          "code": "382",
+          "name": "Carne bovina picanha sem gordura crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 44.36
+        },
+        {
+          "code": "383",
+          "name": "Carne bovina picanha sem gordura grelhada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 26.44
+        },
+        {
+          "code": "384",
+          "name": "Carne bovina seca cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 41.51
+        },
+        {
+          "code": "385",
+          "name": "Carne bovina seca crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 41.42
+        },
+        {
+          "code": "386",
+          "name": "Coxinha de frango frita",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 20.96
+        },
+        {
+          "code": "387",
+          "name": "Croquete de carne cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 10.87
+        },
+        {
+          "code": "388",
+          "name": "Croquete de carne frito",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 22.5
+        },
+        {
+          "code": "389",
+          "name": "Empada de frango pré-cozida assada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 23.85
+        },
+        {
+          "code": "390",
+          "name": "Empada de frango pré-cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 67.93
+        },
+        {
+          "code": "391",
+          "name": "Frango asa com pele crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 19.25
+        },
+        {
+          "code": "392",
+          "name": "Frango caipira inteiro com pele cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 68.07
+        },
+        {
+          "code": "393",
+          "name": "Frango caipira inteiro sem pele cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 55.33
+        },
+        {
+          "code": "394",
+          "name": "Frango coração cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 34.84
+        },
+        {
+          "code": "395",
+          "name": "Frango coração grelhado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 5.92
+        },
+        {
+          "code": "396",
+          "name": "Frango coxa com pele assada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 34.49
+        },
+        {
+          "code": "397",
+          "name": "Frango coxa com pele crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 21.32
+        },
+        {
+          "code": "398",
+          "name": "Frango coxa sem pele cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 47.49
+        },
+        {
+          "code": "399",
+          "name": "Frango coxa sem pele crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 65.5
+        },
+        {
+          "code": "400",
+          "name": "Frango fígado cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 54.26
+        },
+        {
+          "code": "401",
+          "name": "Frango filé à milanesa",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 33.43
+        },
+        {
+          "code": "402",
+          "name": "Frango inteiro com pele cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 5.36
+        },
+        {
+          "code": "403",
+          "name": "Frango inteiro sem pele assado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 14.76
+        },
+        {
+          "code": "404",
+          "name": "Frango inteiro sem pele cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 54.07
+        },
+        {
+          "code": "405",
+          "name": "Frango inteiro sem pele cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 23.15
+        },
+        {
+          "code": "406",
+          "name": "Frango peito com pele assado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 47.08
+        },
+        {
+          "code": "407",
+          "name": "Frango peito com pele cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 45.08
+        },
+        {
+          "code": "408",
+          "name": "Frango peito sem pele cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 35.33
+        },
+        {
+          "code": "409",
+          "name": "Frango peito sem pele cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 50.28
+        },
+        {
+          "code": "410",
+          "name": "Frango peito sem pele grelhado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 21.18
+        },
+        {
+          "code": "411",
+          "name": "Frango sobrecoxa com pele assada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 11.95
+        },
+        {
+          "code": "412",
+          "name": "Frango sobrecoxa com pele crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 51.89
+        },
+        {
+          "code": "413",
+          "name": "Frango sobrecoxa sem pele assada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 63.77
+        },
+        {
+          "code": "414",
+          "name": "Frango sobrecoxa sem pele crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 60.36
+        },
+        {
+          "code": "415",
+          "name": "Hambúrguer bovino cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 36.33
+        },
+        {
+          "code": "416",
+          "name": "Hambúrguer bovino frito",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 55.18
+        },
+        {
+          "code": "417",
+          "name": "Hambúrguer bovino grelhado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 8.97
+        },
+        {
+          "code": "418",
+          "name": "Lingüiça frango crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 8.14
+        },
+        {
+          "code": "419",
+          "name": "Lingüiça frango frita",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 18.83
+        },
+        {
+          "code": "420",
+          "name": "Lingüiça frango grelhada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 52.24
+        },
+        {
+          "code": "421",
+          "name": "Lingüiça porco crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 46.76
+        },
+        {
+          "code": "422",
+          "name": "Lingüiça porco frita",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 54.27
+        },
+        {
+          "code": "423",
+          "name": "Lingüiça porco grelhada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 41.56
+        },
+        {
+          "code": "424",
+          "name": "Mortadela",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 53.65
+        },
+        {
+          "code": "425",
+          "name": "Peru congelado assado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 11.11
+        },
+        {
+          "code": "426",
+          "name": "Peru congelado cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 56.3
+        },
+        {
+          "code": "427",
+          "name": "Porco bisteca crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 63.77
+        },
+        {
+          "code": "428",
+          "name": "Porco bisteca frita",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 34.22
+        },
+        {
+          "code": "429",
+          "name": "Porco bisteca grelhada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 40.81
+        },
+        {
+          "code": "430",
+          "name": "Porco costela assada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 66.64
+        },
+        {
+          "code": "431",
+          "name": "Porco costela crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 59.63
+        },
+        {
+          "code": "432",
+          "name": "Porco lombo assado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 10.52
+        },
+        {
+          "code": "433",
+          "name": "Porco lombo cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 57.98
+        },
+        {
+          "code": "434",
+          "name": "Porco orelha salgada crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 20.68
+        },
+        {
+          "code": "435",
+          "name": "Porco pernil assado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 12.95
+        },
+        {
+          "code": "436",
+          "name": "Porco pernil cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 64.68
+        },
+        {
+          "code": "437",
+          "name": "Porco rabo salgado cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 20.01
+        },
+        {
+          "code": "438",
+          "name": "Presunto com capa de gordura",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 57.1
+        },
+        {
+          "code": "439",
+          "name": "Presunto sem capa de gordura",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 21.08
+        },
+        {
+          "code": "440",
+          "name": "Quibe assado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 60.12
+        },
+        {
+          "code": "441",
+          "name": "Quibe cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 21.14
+        },
+        {
+          "code": "442",
+          "name": "Quibe frito",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 24.43
+        },
+        {
+          "code": "443",
+          "name": "Salame",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 38.65
+        },
+        {
+          "code": "444",
+          "name": "Toucinho cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 6.87
+        },
+        {
+          "code": "445",
+          "name": "Toucinho frito",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 42.03
+        },
+        {
+          "code": "484",
+          "name": "Omelete de queijo",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 16.06
+        },
+        {
+          "code": "485",
+          "name": "Ovo de codorna inteiro cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 24.27
+        },
+        {
+          "code": "486",
+          "name": "Ovo de galinha clara cozida/10minutos",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 8.07
+        },
+        {
+          "code": "487",
+          "name": "Ovo de galinha gema cozida/10minutos",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 47.9
+        },
+        {
+          "code": "488",
+          "name": "Ovo de galinha inteiro cozido/10minutos",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 16.78
+        },
+        {
+          "code": "489",
+          "name": "Ovo de galinha inteiro cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 37.01
+        },
+        {
+          "code": "490",
+          "name": "Ovo de galinha inteiro frito",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 64.78
+        },
+        {
+          "code": "537",
+          "name": "Estrogonofe de carne",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 27.93
+        },
+        {
+          "code": "538",
+          "name": "Estrogonofe de frango",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 32.25
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "LEITES E DERIVADOS",
+      "items": [
+        {
+          "code": "446",
+          "name": "Bebida láctea pêssego",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 15.85
+        },
+        {
+          "code": "447",
+          "name": "Creme de Leite",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 59.55
+        },
+        {
+          "code": "448",
+          "name": "Iogurte natural",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 58.15
+        },
+        {
+          "code": "449",
+          "name": "Iogurte natural desnatado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 20.49
+        },
+        {
+          "code": "450",
+          "name": "Iogurte sabor abacaxi",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 59.13
+        },
+        {
+          "code": "451",
+          "name": "Iogurte sabor morango",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 59.54
+        },
+        {
+          "code": "452",
+          "name": "Iogurte sabor pêssego",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 24.22
+        },
+        {
+          "code": "453",
+          "name": "Leite condensado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 64.39
+        },
+        {
+          "code": "454",
+          "name": "Leite de cabra",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 17.17
+        },
+        {
+          "code": "455",
+          "name": "Leite de vaca achocolatado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 49.47
+        },
+        {
+          "code": "456",
+          "name": "Leite de vaca desnatado pó",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 24.7
+        },
+        {
+          "code": "457",
+          "name": "Leite de vaca desnatado UHT",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 19.21
+        },
+        {
+          "code": "458",
+          "name": "Leite de vaca integral",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 18.03
+        },
+        {
+          "code": "459",
+          "name": "Leite de vaca integral pó",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 36.38
+        },
+        {
+          "code": "460",
+          "name": "Leite fermentado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 61.25
+        },
+        {
+          "code": "461",
+          "name": "Queijo minas frescal",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 28.86
+        },
+        {
+          "code": "462",
+          "name": "Queijo minas meia cura",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 59.28
+        },
+        {
+          "code": "463",
+          "name": "Queijo mozarela",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 60.11
+        },
+        {
+          "code": "464",
+          "name": "Queijo parmesão",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 20.04
+        },
+        {
+          "code": "465",
+          "name": "Queijo pasteurizado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 20.44
+        },
+        {
+          "code": "466",
+          "name": "Queijo petit suisse morango",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 6.82
+        },
+        {
+          "code": "467",
+          "name": "Queijo prato",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 34.27
+        },
+        {
+          "code": "469",
+          "name": "Queijo ricota",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 53.26
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "AÇUCAR E DOCES",
+      "items": [
+        {
+          "code": "468",
+          "name": "Maria mole",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 6.35
+        },
+        {
+          "code": "491",
+          "name": "Achocolatado pó",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 41.1
+        },
+        {
+          "code": "492",
+          "name": "Açúcar cristal",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 44.83
+        },
+        {
+          "code": "493",
+          "name": "Açúcar mascavo",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 46.47
+        },
+        {
+          "code": "494",
+          "name": "Açúcar refinado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 37.15
+        },
+        {
+          "code": "495",
+          "name": "Chocolate ao leite",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 15.61
+        },
+        {
+          "code": "496",
+          "name": "Chocolate ao leite com castanha do Pará",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 41.11
+        },
+        {
+          "code": "497",
+          "name": "Chocolate ao leite dietético",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 10.29
+        },
+        {
+          "code": "498",
+          "name": "Chocolate meio amargo",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 43.91
+        },
+        {
+          "code": "499",
+          "name": "Cocada branca",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 13.02
+        },
+        {
+          "code": "500",
+          "name": "Doce de abóbora cremoso",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 62.68
+        },
+        {
+          "code": "501",
+          "name": "Doce de leite cremoso",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 60.31
+        },
+        {
+          "code": "502",
+          "name": "Geléia mocotó natural",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 11.39
+        },
+        {
+          "code": "503",
+          "name": "Glicose de milho",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 12.84
+        },
+        {
+          "code": "504",
+          "name": "Maria mole",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 22.55
+        },
+        {
+          "code": "505",
+          "name": "Maria mole coco queimado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 56.33
+        },
+        {
+          "code": "506",
+          "name": "Marmelada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 28.04
+        },
+        {
+          "code": "507",
+          "name": "Mel de abelha",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 8.69
+        },
+        {
+          "code": "508",
+          "name": "Melado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 42.49
+        },
+        {
+          "code": "509",
+          "name": "Quindim",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 21.42
+        },
+        {
+          "code": "510",
+          "name": "Rapadura",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 26.73
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "MICELÂNEAS",
+      "items": [
+        {
+          "code": "513",
+          "name": "Fermento em pó químico",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 7.04
+        },
+        {
+          "code": "514",
+          "name": "Fermento biológico levedura tablete",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 45.02
+        },
+        {
+          "code": "515",
+          "name": "Gelatina sabores variados pó",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 12.48
+        },
+        {
+          "code": "516",
+          "name": "Sal dietético",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 6.23
+        },
+        {
+          "code": "517",
+          "name": "Sal grosso",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 22.83
+        },
+        {
+          "code": "518",
+          "name": "Shoyu",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 47.99
+        },
+        {
+          "code": "519",
+          "name": "Tempero a base de sal",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 25.58
+        },
+        {
+          "code": "522",
+          "name": "Chantilly spray com gordura vegetal",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 26.75
+        },
+        {
+          "code": "524",
+          "name": "Maionese tradicional com ovos",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 9.24
+        },
+        {
+          "code": "579",
+          "name": "Paçoca amendoim",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 44.63
+        },
+        {
+          "code": "580",
+          "name": "Pé-de-moleque amendoim",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 52.01
+        },
+        {
+          "code": "581",
+          "name": "Soja farinha",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 67.29
+        },
+        {
+          "code": "582",
+          "name": "Soja extrato solúvel natural fluido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 6.19
+        },
+        {
+          "code": "583",
+          "name": "Soja extrato solúvel pó",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 68.49
+        },
+        {
+          "code": "584",
+          "name": "Soja queijo (tofu)",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 54.37
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "COND",
+      "items": [
+        {
+          "code": "520",
+          "name": "Azeitona preta conserva",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 47.83
+        },
+        {
+          "code": "521",
+          "name": "Azeitona verde conserva",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 11.98
+        },
+        {
+          "code": "523",
+          "name": "Leite de coco",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 22.01
+        },
+        {
+          "code": "525",
+          "name": "Acarajé",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 50.59
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "ALIMENTOS PREPARADOS",
+      "items": [
+        {
+          "code": "526",
+          "name": "Arroz carreteiro",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 32.19
+        },
+        {
+          "code": "527",
+          "name": "Baião de dois arroz e feijão-de-corda",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 26.94
+        },
+        {
+          "code": "528",
+          "name": "Barreado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 32.33
+        },
+        {
+          "code": "529",
+          "name": "Bife à cavalo com contra filé",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 33.54
+        },
+        {
+          "code": "530",
+          "name": "Bolinho de arroz",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 14.25
+        },
+        {
+          "code": "531",
+          "name": "Camarão à baiana",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 43.36
+        },
+        {
+          "code": "532",
+          "name": "Charuto de repolho",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 27.49
+        },
+        {
+          "code": "533",
+          "name": "Cuscuz de milho cozido com sal",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 47.26
+        },
+        {
+          "code": "534",
+          "name": "Cuscuz paulista",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 69.03
+        },
+        {
+          "code": "535",
+          "name": "Cuxá molho",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 19.01
+        },
+        {
+          "code": "536",
+          "name": "Dobradinha",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 43.56
+        },
+        {
+          "code": "539",
+          "name": "Feijão tropeiro mineiro",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 7.38
+        },
+        {
+          "code": "540",
+          "name": "Feijoada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 5.57
+        },
+        {
+          "code": "541",
+          "name": "Frango com açafrão",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 29.74
+        },
+        {
+          "code": "542",
+          "name": "Macarrão molho bolognesa",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 58.64
+        },
+        {
+          "code": "543",
+          "name": "Maniçoba",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 13.05
+        },
+        {
+          "code": "544",
+          "name": "Quibebe",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 49.3
+        },
+        {
+          "code": "545",
+          "name": "Salada de legumes com maionese",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 12.55
+        },
+        {
+          "code": "546",
+          "name": "Salada de legumes cozida no vapor",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 39.95
+        },
+        {
+          "code": "547",
+          "name": "Salpicão de frango",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 32.72
+        },
+        {
+          "code": "548",
+          "name": "Sarapatel",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 44.09
+        },
+        {
+          "code": "549",
+          "name": "Tabule",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 40.63
+        },
+        {
+          "code": "550",
+          "name": "Tacacá",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 54.88
+        },
+        {
+          "code": "551",
+          "name": "Tapioca com manteiga",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 28.47
+        },
+        {
+          "code": "552",
+          "name": "Tucupi com pimenta-de-cheiro",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 54.44
+        },
+        {
+          "code": "553",
+          "name": "Vaca atolada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 68.69
+        },
+        {
+          "code": "554",
+          "name": "Vatapá",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 46.6
+        },
+        {
+          "code": "555",
+          "name": "Virado à paulista",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 47.94
+        },
+        {
+          "code": "556",
+          "name": "Yakisoba",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 10.35
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "LEGUN",
+      "items": [
+        {
+          "code": "557",
+          "name": "Amendoim grão cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 55.43
+        },
+        {
+          "code": "558",
+          "name": "Amendoim torrado salgado",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 16.35
+        },
+        {
+          "code": "559",
+          "name": "Ervilha em vagem",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 6.44
+        },
+        {
+          "code": "560",
+          "name": "Ervilha enlatada drenada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 6.89
+        },
+        {
+          "code": "561",
+          "name": "Feijão carioca cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 23.58
+        },
+        {
+          "code": "562",
+          "name": "Feijão carioca cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 5.77
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "SEMENTES",
+      "items": [
+        {
+          "code": "587",
+          "name": "Amêndoa torrada salgada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 54.83
+        },
+        {
+          "code": "588",
+          "name": "Castanha-de-caju torrada salgada",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 69.44
+        },
+        {
+          "code": "589",
+          "name": "Castanha-do-Brasil crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 8.36
+        },
+        {
+          "code": "590",
+          "name": "Coco cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 62.51
+        },
+        {
+          "code": "591",
+          "name": "Coco verde cru",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 17.0
+        },
+        {
+          "code": "593",
+          "name": "Gergelim semente",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 19.7
+        },
+        {
+          "code": "594",
+          "name": "Linhaça semente",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 11.96
+        },
+        {
+          "code": "595",
+          "name": "Pinhão cozido",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 67.53
+        },
+        {
+          "code": "596",
+          "name": "Pupunha cozida",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 24.44
+        },
+        {
+          "code": "597",
+          "name": "Noz crua",
+          "homemadePortion": "1, Unidade",
+          "gramsPortion": 66.72
+        }
+      ]
+    }
+  ]
+}

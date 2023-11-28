@@ -1,0 +1,37 @@
+<!-- <h1 class="nav-title">Alimentos</h1> -->
+
+<mat-card class="card-new-food mat-elevation-z3">
+    <mat-card-title class="card-title">Excluir Alimento</mat-card-title>
+    
+    <form>
+        <mat-form-field>
+            <input matInput placeholder="Código" [value]="food.code" name="code" required disabled>
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput placeholder="Nome" [value]="food.name" name="name" required disabled>
+        </mat-form-field>
+        <mat-form-field>
+            <input type="number" matInput placeholder="Porção (g)" [value]="food.gramsPortion" name="gramsPortion" required disabled>
+        </mat-form-field>
+        <mat-form-field>
+            <input type="number" matInput placeholder="Proteína (g)" [value]="food.protein" name="protein" required disabled>
+        </mat-form-field>
+        <mat-form-field>
+            <input type="number" matInput placeholder="Carboidrato (g)" [value]="food.carbo" name="carbo" required disabled>
+        </mat-form-field>
+        <mat-form-field>
+            <input type="number" matInput placeholder="Gordura (g)" [value]="food.lipid" name="lipid" required disabled>
+        </mat-form-field>
+        <mat-form-field>
+            <input type="number" matInput placeholder="Caloria (kcal)" [value]="food.calorie" name="calorie" required disabled>
+        </mat-form-field>
+    </form>
+
+    <button mat-raised-button (click)="deleteFood()" color="warn">
+        Excluir
+    </button>
+    
+    <button mat-raised-button (click)="cancel()">
+        Cancelar
+    </button>
+</mat-card>

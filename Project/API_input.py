@@ -22,5 +22,3 @@ def update_inventory():
         return jsonify({'error': str(e)}), 500
 
 app.run(debug=True)
-
-

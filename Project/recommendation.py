@@ -38,13 +38,20 @@ def runRecommendationSystem():
 
     client.close() # final da conexão com o banco de dados
 
-    
-#   Principais variáveiss
+
+#   Principais variáveis
     config     = config_data['config']   # Configurações básicas para execução do método
     foods      = food_data['foods']     # Cadastro de alimentos
     grouping   = grouping_data['grouping']  # Agrupamento dos alimentos
-    menuList   = menuList_data # Cardápios de entrada
-    inventory  = inventory_data # Disponibilidade de estoque
+    # inventory  = inventory_data # Disponibilidade de estoque
+
+
+    for menu in menuList_data:
+        menuList = menu
+    
+    for invent in inventory_data:
+        inventory = invent
+
 
     # print('---------------------------------------------------------------------------------')
     # print(config)
@@ -59,11 +66,31 @@ def runRecommendationSystem():
 
 
     if config["method"] == "similarityMatrix":
-
         # Executa uma carga completa e armazena todos os resultados
-        if config["executionMode"] == "exec-full-save-all":
-            
+        if config["executionMode"] == "exec-full-save-all":       
             # Passo 0: Gerar e armazenar os resultados das recomendações para cada cardápio, de acordo com cardápios pré-definidos
-            replacementPredefinedMenus = menuGenerator(config, menuList, grouping, inventory, foods) 
+            replacementPredefinedMenus = menuGenerator(config, menuList, grouping, inventory, foods)
             
     return
+
+
+'''
+    # leitura do arquivo de menuList
+    inputFile5 = open('Project/menuList.json', encoding = 'utf-8')
+    inputMenuList = json.load(inputFile5)
+    inputFile5.close()
+
+
+    # leitura do arquivo de menuList
+    inputFile6 = open('Project/inventory.json', encoding = 'utf-8')
+    inputInventory = json.load(inputFile6)
+    inputFile6.close()
+
+
+#   Principais variáveis
+    config     = config_data['config']   # Configurações básicas para execução do método
+    foods      = food_data['foods']     # Cadastro de alimentos
+    grouping   = grouping_data['grouping']  # Agrupamento dos alimentos
+    menuList   = inputMenuList['menuList'] # Cardápios de entrada
+    inventory  = inputInventory['inventory'] # Disponibilidade de estoque
+'''
